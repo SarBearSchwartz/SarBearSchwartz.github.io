@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sarah Schwartz is a Assistant Research Professor in the Psychology Department and Director of the Statistical Consulting Studio within the Emma Eccles Jones College of Education and Human Services at Utah State University.  She is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students.  She also teaches quantitative methodology courses for graduate students.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously she worked as a statistician for the Center for Epidemiologic Studies at USU, with collaborators from the University of Utah, Johns Hopkins, and Duke. In addition to expertise in traditional experimental designs and statistical techniques, she have specialized in longitudinal modeling, survival analysis, graphical methods, and data programming.
