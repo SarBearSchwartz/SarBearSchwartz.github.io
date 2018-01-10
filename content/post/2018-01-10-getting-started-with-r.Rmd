@@ -7,9 +7,7 @@ categories:
   - R
 tags:
   - R Markdown
-  - R
   - R Studio
-  - R Markdown
   - knitr
   - LaTeX
   - Psy 6600
