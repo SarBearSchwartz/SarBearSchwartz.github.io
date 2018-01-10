@@ -27,6 +27,7 @@ header:
 
 
 -------------------------------
+
 -------------------------------
 
 # From [Penn State Statistics](https://onlinecourses.science.psu.edu/statprogram/markdown) 
@@ -74,6 +75,7 @@ Check out [Rpubs](http://rpubs.com/). This website shares lots of documents writ
 ![](/img/processRStudio.png)
 
 -------------------------------
+
 -------------------------------
 
 ## Background Information
