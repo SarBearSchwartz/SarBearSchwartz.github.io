@@ -20,19 +20,20 @@ header:
 ---
 
 
+
 # According to [R Studio](www.rstudio.com):
 
 > "R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write **plain text** format for web content) with embedded **R code chunks** that are run so their output can be included in the final document".
 
 
-
-
+-------------------------------
+-------------------------------
 
 # From [Penn State Statistics](https://onlinecourses.science.psu.edu/statprogram/markdown) 
 
 Introduction to creating dynamic R statistical reports in PDF or HTML:
 
-
+-------------------------------
 
 ## What do you mean by **dynamic**? 
 
@@ -49,6 +50,7 @@ A report written in this way can be problematic.  For instance, imagine your *Me
 Therefore, in this way **dynamic also means reproducible**, in the sense that people who get the file from you can reproduce the entire work in the report.
 
 
+-------------------------------
 
 ## How does **R Markdown** work out to be a **.pdf** or **.html** file? 
 
@@ -71,7 +73,8 @@ Check out [Rpubs](http://rpubs.com/). This website shares lots of documents writ
 
 ![](/img/processRStudio.png)
 
-
+-------------------------------
+-------------------------------
 
 ## Background Information
 
@@ -88,7 +91,7 @@ Check out [Rpubs](http://rpubs.com/). This website shares lots of documents writ
 
 > `knitr` is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of **R code** into LaTeX, LyX, HTML, Markdown, AsciiDoc, and **text** documents.
 
-
+-------------------------------
 -------------------------------
 
 # Three Downloads to Install
@@ -103,7 +106,7 @@ Get the latest released version of FREE **Base** R from CRAN
 * Select **base** R for your computer *(Windows, Mac, ect.)*
 * The defaults are good...don't change them...just keep clicking *'Next'*
 
-
+-------------------------------
 
 ![](/img/rstudiosticker.png)
 
@@ -113,7 +116,7 @@ Get the latest version of the FREE Open Source **Desktop** Edition of R Studio
 
 * The defaults are good...don't change them...just keep clicking *'Next'*
 
-
+-------------------------------
 
 ![](/img/latex-project-logo.svg)
 

@@ -21,10 +21,14 @@
 &lt;blockquote&gt;
 &lt;p&gt;“R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write &lt;strong&gt;plain text&lt;/strong&gt; format for web content) with embedded &lt;strong&gt;R code chunks&lt;/strong&gt; that are run so their output can be included in the final document”.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;div id=&#34;section&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;——————————-&lt;/h2&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;from-penn-state-statistics&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;From &lt;a href=&#34;https://onlinecourses.science.psu.edu/statprogram/markdown&#34;&gt;Penn State Statistics&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Introduction to creating dynamic R statistical reports in PDF or HTML:&lt;/p&gt;
+&lt;hr /&gt;
 &lt;div id=&#34;what-do-you-mean-by-dynamic&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;What do you mean by &lt;strong&gt;dynamic&lt;/strong&gt;?&lt;/h2&gt;
 &lt;p&gt;The &lt;strong&gt;traditional way&lt;/strong&gt; to write a report is:&lt;/p&gt;
@@ -40,6 +44,7 @@
 &lt;/ol&gt;
 &lt;p&gt;A report written in this way can be problematic. For instance, imagine your &lt;em&gt;Mentor/collaborator/journal reviewer&lt;/em&gt; telling you that they want to use a sub-sample instead of the entire sample. Or to include a nother variable. You would have to redo all of your work!!&lt;/p&gt;
 &lt;p&gt;Therefore, in this way &lt;strong&gt;dynamic also means reproducible&lt;/strong&gt;, in the sense that people who get the file from you can reproduce the entire work in the report.&lt;/p&gt;
+&lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;how-does-r-markdown-work-out-to-be-a-.pdf-or-.html-file&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;How does &lt;strong&gt;R Markdown&lt;/strong&gt; work out to be a &lt;strong&gt;.pdf&lt;/strong&gt; or &lt;strong&gt;.html&lt;/strong&gt; file?&lt;/h2&gt;
@@ -58,6 +63,9 @@
 
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div id=&#34;section-1&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;——————————-&lt;/h2&gt;
+&lt;/div&gt;
 &lt;div id=&#34;background-information&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Background Information&lt;/h2&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -74,7 +82,9 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;knitr&lt;/code&gt; is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of &lt;strong&gt;R code&lt;/strong&gt; into LaTeX, LyX, HTML, Markdown, AsciiDoc, and &lt;strong&gt;text&lt;/strong&gt; documents.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-2&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;——————————-&lt;/h2&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;three-downloads-to-install&#34; class=&#34;section level1&#34;&gt;
@@ -91,6 +101,7 @@
 &lt;li&gt;Select &lt;strong&gt;base&lt;/strong&gt; R for your computer &lt;em&gt;(Windows, Mac, ect.)&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;The defaults are good…don’t change them…just keep clicking &lt;em&gt;‘Next’&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;/img/rstudiosticker.png&#34; /&gt;
 
@@ -102,6 +113,7 @@
 &lt;ul&gt;
 &lt;li&gt;The defaults are good…don’t change them…just keep clicking &lt;em&gt;‘Next’&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;/img/latex-project-logo.svg&#34; /&gt;
 
