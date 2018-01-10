@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-Sarah Schwartz is an Assistant Research Professor in the Psychology Department and Director of the Statistical Consulting Studio within the Emma Eccles Jones College of Education and Human Services at Utah State University.  She is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students.  She also teaches quantitative methodology courses for graduate students.  
+Sarah Schwartz is an Research Assistant Professor in the Psychology Department and Director of the Statistical Consulting Studio within the Emma Eccles Jones College of Education and Human Services at Utah State University.  She is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students.  She also teaches quantitative methodology courses for graduate students.  
