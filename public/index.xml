@@ -16,7 +16,49 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/getting-started-with-r/</guid>
-      <description>&lt;div id=&#34;background-information&#34; class=&#34;section level2&#34;&gt;
+      <description>&lt;div id=&#34;according-to-r-studio&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;According to &lt;a href=&#34;www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;:&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write &lt;strong&gt;plain text&lt;/strong&gt; format for web content) with embedded &lt;strong&gt;R code chunks&lt;/strong&gt; that are run so their output can be included in the final document”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div id=&#34;from-penn-state-statistics&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;From &lt;a href=&#34;https://onlinecourses.science.psu.edu/statprogram/markdown&#34;&gt;Penn State Statistics&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Introduction to creating dynamic R statistical reports in PDF or HTML:&lt;/p&gt;
+&lt;div id=&#34;what-do-you-mean-by-dynamic&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What do you mean by &lt;strong&gt;dynamic&lt;/strong&gt;?&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;traditional way&lt;/strong&gt; to write a report is:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Run your analysis in software, like SPSS or R and manually save our output
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;i.e. saving the ANOVA table or using pdf() to save the graphs&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Type your your description and interpretation in a text editor like &lt;em&gt;Word&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;either drag/drop tables and figures, or worse copy-paste and retype all the numbers&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A report written in this way can be problematic. For instance, imagine your &lt;em&gt;Mentor/collaborator/journal reviewer&lt;/em&gt; telling you that they want to use a sub-sample instead of the entire sample. Or to include a nother variable. You would have to redo all of your work!!&lt;/p&gt;
+&lt;p&gt;Therefore, in this way &lt;strong&gt;dynamic also means reproducible&lt;/strong&gt;, in the sense that people who get the file from you can reproduce the entire work in the report.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;how-does-r-markdown-work-out-to-be-a-.pdf-or-.html-file&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;How does &lt;strong&gt;R Markdown&lt;/strong&gt; work out to be a &lt;strong&gt;.pdf&lt;/strong&gt; or &lt;strong&gt;.html&lt;/strong&gt; file?&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;R Markdown&lt;/code&gt; is a file with the file extension &lt;strong&gt;.Rmd&lt;/strong&gt;, the &lt;code&gt;knitr&lt;/code&gt; package will then transform the file into a &lt;strong&gt;Markdown&lt;/strong&gt; file with the extension &lt;strong&gt;.md.&lt;/strong&gt; Then Rstudio can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Use &lt;code&gt;LaTeX&lt;/code&gt; to transform the file into a &lt;strong&gt;.pdf&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Load another package called &lt;code&gt;markdown&lt;/code&gt; to transform the file into &lt;strong&gt;.html&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use Pandoc to even convert to file to a &lt;strong&gt;Word&lt;/strong&gt; document (ugly)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;is-this-a-popular-method-for-creating-reports&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Is this a &lt;strong&gt;popular&lt;/strong&gt; method for creating reports?&lt;/h2&gt;
+&lt;p&gt;Check out &lt;a href=&#34;http://rpubs.com/&#34;&gt;Rpubs&lt;/a&gt;. This website shares lots of documents written in the way we will introduce below.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/img/processRStudio.png&#34; /&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;background-information&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Background Information&lt;/h2&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;/img/hex/rmarkdown-200x232.png&#34; /&gt;
@@ -33,6 +75,7 @@
 &lt;p&gt;&lt;code&gt;knitr&lt;/code&gt; is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of &lt;strong&gt;R code&lt;/strong&gt; into LaTeX, LyX, HTML, Markdown, AsciiDoc, and &lt;strong&gt;text&lt;/strong&gt; documents.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;three-downloads-to-install&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Three Downloads to Install&lt;/h1&gt;

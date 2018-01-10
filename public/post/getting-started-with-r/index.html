@@ -17,8 +17,8 @@
       
     
   
-  <meta name="description" content="Background InformationR Markdown documents are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output. Use multiple languages including R, Python, and SQL.
-knitr is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of R code into LaTeX, LyX, HTML, Markdown, AsciiDoc, and text documents.">
+  <meta name="description" content="According to R Studio:“R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write plain text format for web content) with embedded R code chunks that are run so their output can be included in the final document”.
+From Penn State StatisticsIntroduction to creating dynamic R statistical reports in PDF or HTML:">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/getting-started-with-r/">
@@ -79,8 +79,8 @@
   <meta property="og:site_name" content="Sarah Schwartz - Statistics">
   <meta property="og:url" content="/post/getting-started-with-r/">
   <meta property="og:title" content="Getting Started with R, R Studio, and R Markdown | Sarah Schwartz - Statistics">
-  <meta property="og:description" content="Background InformationR Markdown documents are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output. Use multiple languages including R, Python, and SQL.
-knitr is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of R code into LaTeX, LyX, HTML, Markdown, AsciiDoc, and text documents."><meta property="og:image" content="/img/headers/R_studio_LaTeX_header.png">
+  <meta property="og:description" content="According to R Studio:“R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write plain text format for web content) with embedded R code chunks that are run so their output can be included in the final document”.
+From Penn State StatisticsIntroduction to creating dynamic R statistical reports in PDF or HTML:"><meta property="og:image" content="/img/headers/R_studio_LaTeX_header.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-01-10T00:00:00&#43;00:00">
@@ -319,7 +319,49 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <div id="background-information" class="section level2">
+        <div id="according-to-r-studio" class="section level1">
+<h1>According to <a href="www.rstudio.com">R Studio</a>:</h1>
+<blockquote>
+<p>“R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write <strong>plain text</strong> format for web content) with embedded <strong>R code chunks</strong> that are run so their output can be included in the final document”.</p>
+</blockquote>
+</div>
+<div id="from-penn-state-statistics" class="section level1">
+<h1>From <a href="https://onlinecourses.science.psu.edu/statprogram/markdown">Penn State Statistics</a></h1>
+<p>Introduction to creating dynamic R statistical reports in PDF or HTML:</p>
+<div id="what-do-you-mean-by-dynamic" class="section level2">
+<h2>What do you mean by <strong>dynamic</strong>?</h2>
+<p>The <strong>traditional way</strong> to write a report is:</p>
+<ol style="list-style-type: decimal">
+<li>Run your analysis in software, like SPSS or R and manually save our output
+<ul>
+<li><em>i.e. saving the ANOVA table or using pdf() to save the graphs</em></li>
+</ul></li>
+<li>Type your your description and interpretation in a text editor like <em>Word</em>
+<ul>
+<li><em>either drag/drop tables and figures, or worse copy-paste and retype all the numbers</em></li>
+</ul></li>
+</ol>
+<p>A report written in this way can be problematic. For instance, imagine your <em>Mentor/collaborator/journal reviewer</em> telling you that they want to use a sub-sample instead of the entire sample. Or to include a nother variable. You would have to redo all of your work!!</p>
+<p>Therefore, in this way <strong>dynamic also means reproducible</strong>, in the sense that people who get the file from you can reproduce the entire work in the report.</p>
+</div>
+<div id="how-does-r-markdown-work-out-to-be-a-.pdf-or-.html-file" class="section level2">
+<h2>How does <strong>R Markdown</strong> work out to be a <strong>.pdf</strong> or <strong>.html</strong> file?</h2>
+<p><code>R Markdown</code> is a file with the file extension <strong>.Rmd</strong>, the <code>knitr</code> package will then transform the file into a <strong>Markdown</strong> file with the extension <strong>.md.</strong> Then Rstudio can:</p>
+<ul>
+<li><p>Use <code>LaTeX</code> to transform the file into a <strong>.pdf</strong></p></li>
+<li><p>Load another package called <code>markdown</code> to transform the file into <strong>.html</strong></p></li>
+<li><p>Use Pandoc to even convert to file to a <strong>Word</strong> document (ugly)</p></li>
+</ul>
+</div>
+<div id="is-this-a-popular-method-for-creating-reports" class="section level2">
+<h2>Is this a <strong>popular</strong> method for creating reports?</h2>
+<p>Check out <a href="http://rpubs.com/">Rpubs</a>. This website shares lots of documents written in the way we will introduce below.</p>
+<div class="figure">
+<img src="/img/processRStudio.png" />
+
+</div>
+</div>
+<div id="background-information" class="section level2">
 <h2>Background Information</h2>
 <div class="figure">
 <img src="/img/hex/rmarkdown-200x232.png" />
@@ -336,6 +378,7 @@
 <p><code>knitr</code> is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of <strong>R code</strong> into LaTeX, LyX, HTML, Markdown, AsciiDoc, and <strong>text</strong> documents.</p>
 </blockquote>
 <hr />
+</div>
 </div>
 <div id="three-downloads-to-install" class="section level1">
 <h1>Three Downloads to Install</h1>

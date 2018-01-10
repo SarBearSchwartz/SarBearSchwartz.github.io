@@ -13,10 +13,64 @@ tags:
   - Psy 6600
   - Psy 7650
   
+  
 header:
   image: "headers/R_studio_LaTeX_header.png"
   caption: "Download and installation instructions"
 ---
+
+
+# According to [R Studio](www.rstudio.com):
+
+> "R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write **plain text** format for web content) with embedded **R code chunks** that are run so their output can be included in the final document".
+
+
+
+
+
+# From [Penn State Statistics](https://onlinecourses.science.psu.edu/statprogram/markdown) 
+
+Introduction to creating dynamic R statistical reports in PDF or HTML:
+
+
+
+## What do you mean by **dynamic**? 
+
+The **traditional way** to write a report is:
+
+1. Run your analysis in software, like SPSS or R and manually save our output
+    * *i.e. saving the ANOVA table or using pdf() to save the graphs*  
+
+2. Type your your description and interpretation in a text editor like *Word*
+    * *either drag/drop tables and figures, or worse copy-paste and retype all the numbers*
+
+A report written in this way can be problematic.  For instance, imagine your *Mentor/collaborator/journal reviewer*  telling you that they want to use a sub-sample instead of the entire sample. Or to include a nother variable.  You would have to redo all of your work!! 
+
+Therefore, in this way **dynamic also means reproducible**, in the sense that people who get the file from you can reproduce the entire work in the report.
+
+
+
+## How does **R Markdown** work out to be a **.pdf** or **.html** file? 
+
+`R Markdown` is a file with the file extension **.Rmd**, the `knitr` package will then transform the file into a **Markdown** file with the extension **.md.** Then Rstudio can:
+
+  * Use `LaTeX` to transform the file into a **.pdf** 
+    
+  * Load another package called `markdown` to transform the file into **.html**   
+    
+  * Use Pandoc to even convert to file to a **Word** document (ugly)
+
+
+
+## Is this a **popular** method for creating reports? 
+
+Check out [Rpubs](http://rpubs.com/). This website shares lots of documents written in the way we will introduce below.
+
+
+
+
+![](/img/processRStudio.png)
+
 
 
 ## Background Information
