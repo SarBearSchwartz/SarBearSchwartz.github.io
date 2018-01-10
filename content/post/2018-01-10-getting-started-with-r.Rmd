@@ -14,7 +14,7 @@ tags:
   - Psy 7650
   
 header:
-  image: "headers/R_Rstudio_TeX.png"
+  image: "headers/R_studio_LaTeX_header.png"
   caption: "Download and installation instructions"
 ---
 
