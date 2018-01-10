@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Statistics and Quantitative Methods"
-    "Reproducable Research"
+    "Statistics and Quantitative Methods",
+    "Reproducable Research",
     "Cats"
   ]
 
