@@ -10,14 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Statistics and Quantitative Methods",
+    "Statistics",
+    "Quantitative Methods",
     "Reproducable Research",
     "Cats"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematical Sciences, Statistics Specialization"
+  course = "PhD in Statistics"
   institution = "Utah State University"
   year = 2017
 
@@ -27,7 +28,7 @@ weight = 5
   year = 2006
 
 [[education.courses]]
-  course = "BS Mathematics Education and Chemistry Teaching"
+  course = "BS Math & Chem Teaching"
   institution = "Utah State University"
   year = 2000
  
