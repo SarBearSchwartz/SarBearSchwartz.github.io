@@ -39,7 +39,7 @@ header:
 
 # Three Downloads to Install
 
-![](/img/Rlogo.png)
+![](/img/Rlogo_200.png)
 
 ## 1. `R` from [www.r-project.org](www.r-project.org)
 
@@ -51,7 +51,7 @@ Get the latest released version of FREE **Base** R from CRAN
 
 
 
-![](/img/RStudio-Logo-Blue-Gray-125.png)
+![](/img/rstudiosticker.png)
 
 ## 2 `R Studio` from [www.rstudio.com](www.rstudio.com)
 
