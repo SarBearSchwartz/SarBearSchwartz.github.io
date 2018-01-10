@@ -1,0 +1,90 @@
+---
+title: Getting Started with R, R Studio, and R Markdown
+author: Sarah E. Schwartz
+date: '2018-01-10'
+slug: getting-started-with-r
+categories:
+  - R
+tags:
+  - R Markdown
+  - R
+  - R Studio
+  - R Markdown
+  - knitr
+  - LaTeX
+  - Psy 6600
+  - Psy 7650
+  
+header:
+  image: "headers/R_Rstudio_TeX.png"
+  caption: "Download and installation instructions"
+---
+
+
+## Background Information
+
+
+
+![](/img/hex/rmarkdown-200x232.png)
+
+ 
+> `R Markdown` documents are fully reproducible. Use a productive **notebook** interface to weave together narrative text and code to produce elegantly formatted output. Use multiple languages including R, Python, and SQL.
+
+
+![](/img/hex/knitr-200x232.png)
+
+
+> `knitr` is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of **R code** into LaTeX, LyX, HTML, Markdown, AsciiDoc, and **text** documents.
+
+
+-------------------------------
+
+# Three Downloads to Install
+
+![](/img/Rlogo.png)
+
+## 1. `R` from [www.r-project.org](www.r-project.org)
+
+Get the latest released version of FREE **Base** R from CRAN 
+
+* Choose a mirror close to your location
+* Select **base** R for your computer *(Windows, Mac, ect.)*
+* The defaults are good...don't change them...just keep clicking *'Next'*
+
+
+
+![](/img/RStudio-Logo-Blue-Gray-125.png)
+
+## 2 `R Studio` from [www.rstudio.com](www.rstudio.com)
+
+Get the latest version of the FREE Open Source **Desktop** Edition of R Studio
+
+* The defaults are good...don't change them...just keep clicking *'Next'*
+
+
+
+![](/img/latex-project-logo.svg)
+
+## 3. `LaTeX` depends on your operating system
+
+
+> **Mac:** `MacTeX` from [http://tug.org/mactex/](http://tug.org/mactex/) 
+
+* Download (5+ min) to a folder and them double click on the **PKG file**
+* Follow the installation instructions.
+* You don't need to open anything after MacTeX is finished installing.  
+    
+     
+    
+> **Windows:** `MikTeX` [http://miktex.org/download](http://miktex.org/download)
+
+* Pick the latest version of the **Net Installer**, not the Basic! 
+* You need the full version 64-bit is better, if you have a 64-bit machine
+* When your download is complete, run the downloaded installer. 
+* Windows may ask you if you want to *“allow this app from an unknown publisher to make changes to your PC”*. If it does, make sure to click **Yes!**
+* This is the slowest part...
+
+    
+    
+    
+
