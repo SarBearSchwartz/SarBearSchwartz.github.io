@@ -92,6 +92,7 @@ Check out [Rpubs](http://rpubs.com/). This website shares lots of documents writ
 > `knitr` is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of **R code** into LaTeX, LyX, HTML, Markdown, AsciiDoc, and **text** documents.
 
 -------------------------------
+
 -------------------------------
 
 # Three Downloads to Install

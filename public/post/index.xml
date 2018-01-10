@@ -82,9 +82,8 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;knitr&lt;/code&gt; is an engine for dynamic report generation with R. It is a package in the statistical programming language R that enables integration of &lt;strong&gt;R code&lt;/strong&gt; into LaTeX, LyX, HTML, Markdown, AsciiDoc, and &lt;strong&gt;text&lt;/strong&gt; documents.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-2&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;——————————-&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;three-downloads-to-install&#34; class=&#34;section level1&#34;&gt;
