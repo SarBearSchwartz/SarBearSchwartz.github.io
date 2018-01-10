@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at Utah State University:
+Graduate courses at Utah State University:
 
-- Educ/Psy 6600:Research Design & Analysis 1
-- Psy 7650: Multilevel and Marginal Modeling
+- Educ/Psy 6600: Research Design & Analysis 1 (Spring, Summer)
+- Psy 7650: Multilevel and Marginal Modeling (Fall)

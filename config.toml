@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Dr. Sarah Schwartz Ph.D."
+  name = "Dr. Sarah Schwartz"
   role = "The Statistical Consulting Center, Director"
 
   # Organizations/Affiliations.
