@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/psy6600_project/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/getting-started-with-r/</loc>
       <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     </url>
@@ -34,6 +43,16 @@
     
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/6600/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -72,6 +91,16 @@
     
       <loc>/post/</loc>
       <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -151,6 +180,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/usu-grad/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

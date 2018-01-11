@@ -21,7 +21,7 @@ header:
 
 
 
-# According to [R Studio](www.rstudio.com):
+# According to [R Studio](www.rstudio.com)
 
 > "R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write **plain text** format for web content) with embedded **R code chunks** that are run so their output can be included in the final document".
 

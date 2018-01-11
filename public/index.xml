@@ -11,19 +11,34 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Quantitative Methods I</title>
+      <link>/project/psy6600_project/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psy6600_project/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://sarbearschwartz.github.io/Quant_I/&#34; target=&#34;_blank&#34;&gt;Book: Quantitative Methods I: Examples in R&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h1&gt;
+
+&lt;h2 id=&#34;chap-1-intro-to-r-http-tysonbarrett-com-educ-6600-slides-00-ch1-intro-html-1&#34;&gt;Chap 1 - &lt;a href=&#34;http://tysonbarrett.com/EDUC-6600/Slides/00_Ch1_Intro.html#1&#34; target=&#34;_blank&#34;&gt;Intro to R&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting Started with R, R Studio, and R Markdown</title>
       <link>/post/getting-started-with-r/</link>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/getting-started-with-r/</guid>
       <description>&lt;div id=&#34;according-to-r-studio&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;According to &lt;a href=&#34;www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;:&lt;/h1&gt;
+&lt;h1&gt;According to &lt;a href=&#34;www.rstudio.com&#34;&gt;R Studio&lt;/a&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“R Markdown is a format that enables easy authoring of reproducible web reports from R. It combines the core syntax of Markdown (an easy-to-write &lt;strong&gt;plain text&lt;/strong&gt; format for web content) with embedded &lt;strong&gt;R code chunks&lt;/strong&gt; that are run so their output can be included in the final document”.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div id=&#34;section&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;——————————-&lt;/h2&gt;
-&lt;/div&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;from-penn-state-statistics&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;From &lt;a href=&#34;https://onlinecourses.science.psu.edu/statprogram/markdown&#34;&gt;Penn State Statistics&lt;/a&gt;&lt;/h1&gt;
@@ -62,9 +77,8 @@
 &lt;img src=&#34;/img/processRStudio.png&#34; /&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-1&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;——————————-&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;hr /&gt;
 &lt;/div&gt;
 &lt;div id=&#34;background-information&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Background Information&lt;/h2&gt;
