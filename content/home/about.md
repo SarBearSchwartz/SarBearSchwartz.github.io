@@ -13,7 +13,7 @@ weight = 5
     "Statistics",
     "Quantitative Methods",
     "Reproducable Research",
-    "Cats"
+    "Goats and Cats"
   ]
 
 # List your qualifications (such as academic degrees).
