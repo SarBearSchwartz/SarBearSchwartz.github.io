@@ -3,17 +3,17 @@
 date = "2018-01-10"
 
 # Project title.
-title = "SSworkshops"
+title = "Stat Studio Workshops"
 
 # Project summary to display on homepage.
-summary = "Workshops given several times a semester for CEHS faculty and graduate students."
+summary = "Sessions held several times a semester for CEHS faculty and graduate students"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["workshops"]
+tags = ["workshops", "SPSS"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

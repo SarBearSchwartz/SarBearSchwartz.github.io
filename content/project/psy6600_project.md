@@ -3,10 +3,10 @@
 date = "2018-01-11"
 
 # Project title.
-title = "Quantitative Methods I"
+title = "Psy/Educ 6600"
 
 # Project summary to display on homepage.
-summary = "Course Matterials for Research Design and Analysis I (Psy 6600, Educ 6600)."
+summary = "USU Course: Research Design and Analysis I (Quanititative Methods - t-Tests and ANOVA)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
