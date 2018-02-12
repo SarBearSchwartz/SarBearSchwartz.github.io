@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2018-01-10"
+date = "2018-01-11"
 
 # Project title.
-title = "Stat Studio Workshops"
+title = "Psy 7650"
 
 # Project summary to display on homepage.
-summary = "Sessions held several times a semester for CEHS faculty and graduate students"
+summary = "USU Course: Multilevel and Marginal Models"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "StatStudio_logo_square.PNG"
+image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["workshops", "SPSS"]
+tags = ["7650", "usu-grad"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,9 +23,10 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/StatStudio_logo_header.PNG"
-caption = "My caption :smile:"
+image = "headers/bubbles-wide.jpg"
+caption = "testing"
 
 +++
 
-Workshops are given several times a semester.
+Taught fall semester.
+

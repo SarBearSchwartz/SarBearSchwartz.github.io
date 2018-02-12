@@ -9,7 +9,7 @@ title = "Psy/Educ 6600"
 summary = "USU Course: Research Design and Analysis I (Quanititative Methods - t-Tests and ANOVA)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "RDA1_logo_square.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/RDA1_logo_header.png"
 caption = "testing"
 
 +++
