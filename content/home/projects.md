@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "USU Grad"
-  tag = ".usu-grad"
+  name = "Current"
+  tag = ".2018spr"
 
 [[filter]]
   name = "Other"
