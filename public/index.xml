@@ -28,7 +28,7 @@
       <guid>/project/psy6600_project/</guid>
       <description>
 
-&lt;h1 id=&#34;basic-information&#34;&gt;Basic Information&lt;/h1&gt;
+&lt;h2 id=&#34;basic-information&#34;&gt;Basic Information&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;USU, CEHS graduate student&amp;rsquo;s 1st course in quantitative methods&lt;/li&gt;
@@ -37,11 +37,11 @@
 &lt;li&gt;Students may attend at the Logan campus or at a USU distance site&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;course-purpose&#34;&gt;Course Purpose&lt;/h1&gt;
+&lt;h2 id=&#34;course-purpose&#34;&gt;Course Purpose&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Research Design &amp;amp; Analysis I&lt;/strong&gt; is designed to provide the student with a &lt;strong&gt;practical, applied&lt;/strong&gt; approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This course will mostly focus on &lt;strong&gt;basic&lt;/strong&gt; statistical techniques and several forms of the &lt;strong&gt;ANOVA model&lt;/strong&gt;, which can be used by themselves or serve as building blocks for more advanced techniques in other courses.&lt;/p&gt;
 
-&lt;h2 id=&#34;students-will-also-learn-how-to&#34;&gt;Students will also learn how to:&lt;/h2&gt;
+&lt;h3 id=&#34;students-will-also-learn-how-to&#34;&gt;Students will also learn how to:&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;use the &lt;code&gt;R&lt;/code&gt; statistical programming environment (via the &lt;code&gt;R Studio&lt;/code&gt; IDE) to &lt;strong&gt;analyze data&lt;/strong&gt; and&lt;/p&gt;&lt;/li&gt;
@@ -49,7 +49,7 @@
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;interpret&lt;/strong&gt; and &lt;strong&gt;communicate&lt;/strong&gt; the results of analyses &lt;em&gt;(including creating reproducible research reports with &lt;code&gt;R Markdown&lt;/code&gt;)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h1&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Completion of EDUC/PSY 6570 &lt;em&gt;‘Introduction to Educational &amp;amp; Psychological Research’&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
@@ -57,9 +57,9 @@
 &lt;li&gt;&lt;p&gt;Passing the EDUC/PSY 6600 &lt;em&gt;pretest&lt;/em&gt; (70% or better) &lt;a href=&#34;http://cehs.usu.edu/research/courses/educ-psy-6600&#34; target=&#34;_blank&#34;&gt;More Information Here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;course-matterials&#34;&gt;Course Matterials&lt;/h1&gt;
+&lt;h2 id=&#34;course-matterials&#34;&gt;Course Matterials&lt;/h2&gt;
 
-&lt;h2 id=&#34;ebook-explaining-psychological-statistics-a-companion-in-r-https-sarbearschwartz-github-io-quant-i&#34;&gt;&lt;a href=&#34;https://sarbearschwartz.github.io/Quant_I/&#34; target=&#34;_blank&#34;&gt;eBook - Explaining Psychological Statistics: A Companion in R&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;ebook-explaining-psychological-statistics-a-companion-in-r-https-sarbearschwartz-github-io-quant-i&#34;&gt;&lt;a href=&#34;https://sarbearschwartz.github.io/Quant_I/&#34; target=&#34;_blank&#34;&gt;eBook - Explaining Psychological Statistics: A Companion in R&lt;/a&gt;&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Cohen, B. H. (2008). &lt;strong&gt;Explaining Psychological Statistics (4th Ed.)&lt;/strong&gt;. New York: Wiley&lt;/p&gt;&lt;/li&gt;
@@ -216,7 +216,13 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/ssworkshops/</guid>
-      <description>&lt;p&gt;Workshops are given several times a semester.&lt;/p&gt;
+      <description>&lt;p&gt;More information available at: &lt;a href=&#34;https://cehs.usu.edu/research/statstudio/workshops&#34; target=&#34;_blank&#34;&gt;www.cehs.usu.edu/Research/StatStudio/Workshops&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Registration on &lt;a href=&#34;https://www.eventbrite.com/o/usu-cehs-statistical-consulting-studio-13278759178&#34; target=&#34;_blank&#34;&gt;EventBrite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Add your email to the &lt;a href=&#34;https://lists.usu.edu/wws/info/statstudio&#34; target=&#34;_blank&#34;&gt;mailing list&lt;/a&gt; to get advanged notice of new, upcoming sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cehs.usu.edu/research/statstudio/images/spring-2018_schedule.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
