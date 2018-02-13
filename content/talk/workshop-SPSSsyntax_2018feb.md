@@ -39,7 +39,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "StatStudio_workshop_SPSSsyntax_header.PNG"
+image = "workshops/StatStudio_workshop_SPSSsyntax_header.PNG"
 caption = "Stat Studio Workshop: SPSS via Syntax"
 
 +++
