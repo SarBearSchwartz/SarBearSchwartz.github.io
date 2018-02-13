@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/StatStudio_logo_header.PNG"
-caption = "My caption :smile:"
+caption = ""
 
 +++
 

@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/RDA1_logo_header.png"
-caption = "testing"
+caption = ""
 
 +++
 
