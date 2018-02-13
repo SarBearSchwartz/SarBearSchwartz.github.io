@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/psy7650_project/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/psy6600_project/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     </url>
@@ -23,7 +32,16 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>/project/ssworkshops/</loc>
+      <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/workshop-spsssyntax_2018feb/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -50,7 +68,37 @@
     
     <url>
     
+      <loc>/tags/2017fall/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/2018spr/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/6600/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/7650/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -168,6 +216,16 @@
     
     <url>
     
+      <loc>/tags/spss/</loc>
+      <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -188,8 +246,8 @@
     
     <url>
     
-      <loc>/tags/usu-grad/</loc>
-      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <loc>/tags/workshops/</loc>
+      <lastmod>2018-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

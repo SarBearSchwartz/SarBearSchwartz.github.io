@@ -8,22 +8,35 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Quantitative Methods I</title>
+      <title>Psy 7650</title>
+      <link>/project/psy7650_project/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psy7650_project/</guid>
+      <description>Taught fall semester.</description>
+    </item>
+    
+    <item>
+      <title>Psy6600 &amp; Educ 6600</title>
       <link>/project/psy6600_project/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/psy6600_project/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://sarbearschwartz.github.io/Quant_I/&#34; target=&#34;_blank&#34;&gt;Book: Quantitative Methods I: Examples in R&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;lecture-slides&#34;&gt;Lecture Slides&lt;/h1&gt;
-
-&lt;h2 id=&#34;chap-1-intro-to-r-http-tysonbarrett-com-educ-6600-slides-00-ch1-intro-html-1&#34;&gt;Chap 1 - &lt;a href=&#34;http://tysonbarrett.com/EDUC-6600/Slides/00_Ch1_Intro.html#1&#34; target=&#34;_blank&#34;&gt;Intro to R&lt;/a&gt;&lt;/h2&gt;
-</description>
+      <description>Basic Information  USU, CEHS graduate student&amp;rsquo;s 1st course in quantitative methods Held: Spring Semester 2018, Tues and Thursday 4:40-5:45pm Cross listed as Psy 6600 and Educ 6600 Students may attend at the Logan campus or at a USU distance site  Course Purpose Research Design &amp;amp; Analysis I is designed to provide the student with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles.</description>
+    </item>
+    
+    <item>
+      <title>Stat Studio: Workshops</title>
+      <link>/project/ssworkshops/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ssworkshops/</guid>
+      <description>Workshops are given several times a semester.</description>
     </item>
     
   </channel>
