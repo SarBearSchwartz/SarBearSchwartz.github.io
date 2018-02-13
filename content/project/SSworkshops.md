@@ -29,11 +29,11 @@ caption = ""
 +++
 
 
-More information available at: [www.cehs.usu.edu/Research/StatStudio/Workshops](https://cehs.usu.edu/research/statstudio/workshops)
+- More information available on the [Stat Studio website](https://cehs.usu.edu/research/statstudio/workshops)
 
-Registration on [EventBrite](https://www.eventbrite.com/o/usu-cehs-statistical-consulting-studio-13278759178)
+- All session's registration through [EventBrite](https://www.eventbrite.com/o/usu-cehs-statistical-consulting-studio-13278759178)
 
-Add your email to the [mailing list](https://lists.usu.edu/wws/info/statstudio) to get advanged notice of new, upcoming sessions.
+- Add yourself to the [mailing list](https://lists.usu.edu/wws/info/statstudio) to recieve direct emails
 
 ![](https://cehs.usu.edu/research/statstudio/images/spring-2018_schedule.jpg)
 
