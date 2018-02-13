@@ -44,4 +44,4 @@ caption = "Stat Studio Workshop: SPSS via Syntax"
 
 +++
 
-This workshop will cover the shy and how to use SPSS syntax to conduct reproducible research.
+This workshop will cover the why and how to use SPSS syntax to conduct reproducible research.
