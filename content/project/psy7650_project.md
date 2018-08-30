@@ -9,7 +9,7 @@ title = "Psy 7650"
 summary = "USU Course: Multilevel and Marginal Models, Psychology Department's advanced course on mixed effects models"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "psy7650_square.PNG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,5 +28,5 @@ caption = ""
 
 +++
 
-Taught fall semester.
+Taught fall semester.  
 

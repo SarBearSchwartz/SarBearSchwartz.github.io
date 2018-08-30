@@ -30,12 +30,12 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 
-[[filter]]
-  name = "Current"
-  tag = ".fall"
-
-[[filter]]
-  name = "All"
-  tag = "*"
+# [[filter]]
+#   name = "Current"
+#   tag = ".fall"
+# 
+# [[filter]]
+#   name = "All"
+#   tag = "*"
 
 +++

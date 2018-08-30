@@ -9,7 +9,7 @@ title = "Psy6600 & Educ 6600"
 summary = "USU Course: Research Design and Analysis I, CEHS grad student's 1st quantitative methods class"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "RDA1_logo_square.png"
+image_preview = "psy6600_square.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
