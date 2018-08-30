@@ -1,0 +1,10 @@
+---
+date: "2018-01-10"
+title: "Stat Studio: Workshops"
+summary: "Sessions held several times a semester for CEHS faculty and graduate students"
+tags: ["fall", "spring", "workshops", "SPSS"]
+external_link: "https://cehs.usu.edu/research/statstudio/workshops"
+image_preview: "StatStudio_logo_square.PNG"
+---
+
+<!-- Note: image relative to `static/img/` folder  -->

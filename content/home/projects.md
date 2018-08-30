@@ -32,7 +32,7 @@ filter_default = 0
 
 [[filter]]
   name = "Current"
-  tag = ".spring"
+  tag = ".fall"
 
 [[filter]]
   name = "All"

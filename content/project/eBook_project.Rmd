@@ -6,3 +6,5 @@ tags: ["7650", "6600", "3150", "eBooks", "spring", "summer", "fall"]
 external_link: "https://cehs-research.github.io/eBooks/"
 image_preview: "square_logo.PNG"
 ---
+
+<!-- Note: image relative to `static/img/` folder -->

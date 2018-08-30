@@ -16,7 +16,8 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/ebook_project/</guid>
-      <description></description>
+      <description>&lt;!-- Note: image relative to `static/img/` folder --&gt;
+</description>
     </item>
     
     <item>
@@ -225,15 +226,7 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/ssworkshops/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;More information available on the &lt;a href=&#34;https://cehs.usu.edu/research/statstudio/workshops&#34; target=&#34;_blank&#34;&gt;Stat Studio website&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;All session&amp;rsquo;s registration through &lt;a href=&#34;https://www.eventbrite.com/o/usu-cehs-statistical-consulting-studio-13278759178&#34; target=&#34;_blank&#34;&gt;EventBrite&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Add yourself to the &lt;a href=&#34;https://lists.usu.edu/wws/info/statstudio&#34; target=&#34;_blank&#34;&gt;mailing list&lt;/a&gt; to recieve direct emails&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cehs.usu.edu/research/statstudio/images/spring-2018_schedule.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
 </description>
     </item>
     
