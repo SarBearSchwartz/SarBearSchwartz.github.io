@@ -13,7 +13,7 @@ image_preview = "StatStudio_logo_square.PNG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["2018spr", "workshops", "SPSS"]
+tags = ["fall", "spring", "workshops", "SPSS"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

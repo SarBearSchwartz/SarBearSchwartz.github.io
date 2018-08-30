@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/ebook_project/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/psy7650_project/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     </url>
@@ -68,17 +77,7 @@
     
     <url>
     
-      <loc>/tags/2017fall/</loc>
-      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/2018spr/</loc>
+      <loc>/tags/3150/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -109,6 +108,26 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/ebooks/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/fall/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -228,6 +247,26 @@
     
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/spring/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/summer/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

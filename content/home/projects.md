@@ -32,7 +32,7 @@ filter_default = 0
 
 [[filter]]
   name = "Current"
-  tag = ".2018spr"
+  tag = ".spring"
 
 [[filter]]
   name = "All"

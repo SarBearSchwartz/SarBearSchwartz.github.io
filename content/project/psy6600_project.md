@@ -6,14 +6,14 @@ date = "2018-01-11"
 title = "Psy6600 & Educ 6600"
 
 # Project summary to display on homepage.
-summary = "USU Course: Research Design and Analysis I, CEHS grad sutdent's 1st quantitative methods class"
+summary = "USU Course: Research Design and Analysis I, CEHS grad student's 1st quantitative methods class"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "RDA1_logo_square.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["6600", "2018spr"]
+tags = ["6600", "spring"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

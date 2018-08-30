@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7650 on Sarah Schwartz - Stats</title>
+    <link>/tags/7650/</link>
+    <description>Recent content in 7650 on Sarah Schwartz - Stats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/7650/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Encyclopedia of Quantitative Methods in R</title>
+      <link>/project/ebook_project/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ebook_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psy 7650</title>
+      <link>/project/psy7650_project/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/psy7650_project/</guid>
+      <description>Taught fall semester.</description>
+    </item>
+    
+  </channel>
+</rss>

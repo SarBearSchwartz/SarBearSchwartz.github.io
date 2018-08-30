@@ -6,14 +6,14 @@ date = "2018-01-11"
 title = "Psy 7650"
 
 # Project summary to display on homepage.
-summary = "USU Course: Multilevel and Marginal Models"
+summary = "USU Course: Multilevel and Marginal Models, Psychology Department's advanced course on mixed effects models"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["7650", "2017fall"]
+tags = ["7650", "fall"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
