@@ -25,19 +25,30 @@ This course will mostly focus on basic statistical techniques and several forms 
 
 
 
-# Lectures
-
-## Preparatory Topics and Exploratory Analysis
+# Lecture Slides
 
 | Chapter | Content | Slides |
 | ------- | ------- | ------ |
-|   | Intro to the Course | |
-|   | Textbook | |
-|   | APA Format Pertaining to Quantitative Analysis | |
-| 1 | Variables, Scales, Rounding, & Summation | |
-| 2 | Exploration of Data with Plots | |
-| 3 | Summarizing Data with Descriptive Statistics | |
-| 4 | Standardized Scores & The Normal Distribution | |
-
+|    | Intro to the Course | |
+|    | Textbook | |
+|    | APA Format Pertaining to Quantitative Analysis | |
+| 1  | Variables, Scales, Rounding, & Summation | |
+| 2  | Exploration of Data with Plots | |
+| 3  | Summarizing Data with Descriptive Statistics | |
+| 4  | Standardized Scores & The Normal Distribution | |
+| 5  | Intro to Hypothesis Testing: 1 Sample z-test | |
+| 6  | Confidence Interval Estimation: The t Distribution | |
+| 7  | Independent Samples t-Test for Means | |
+| 8  | Statistical Power & Effect Size | |
+| 9  | Linear Correlation | |
+| 10 | Linear Regression | |
+| 11 | Matched t-Test | |
+| 12 | 1-way Independent Groups ANOVA | |
+| 13 | Multiple Comparisons | |
+| 14 | 2-way ANOVA | |
+| 15 | Repeated Measures ANOVA | |
+| 16 | 2-way Mixed Design ANOVA | |
+| 19 | The Binomial Distribution | |
+| 20 | Chi-Squared Tests | |
 
 
