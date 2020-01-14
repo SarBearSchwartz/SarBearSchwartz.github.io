@@ -13,12 +13,14 @@
     
     
     <item>
-      <title>Testing</title>
-      <link>/teaching/testing/</link>
+      <title>Statistical Foundations</title>
+      <link>/teaching/foundation/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/testing/</guid>
-      <description></description>
+      <guid>/teaching/foundation/</guid>
+      <description>Note: This course was historically called “Research Design andAnalysis I”
+OverviewStatistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.
+This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses.</description>
     </item>
     
     <item>
@@ -41,10 +43,10 @@
     
     <item>
       <title>Statistical Foundations</title>
-      <link>/teaching/foundations/</link>
+      <link>/teaching/_old_foundations/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/foundations/</guid>
+      <guid>/teaching/_old_foundations/</guid>
       <description>Basic Information  USU, CEHS graduate student&amp;rsquo;s 1st course in quantitative methods Held: Spring Semester 2018, Tues and Thursday 4:40-5:45pm Cross listed as Psy 6600 and Educ 6600 Students may attend at the Logan campus or at a USU distance site  Course Purpose Research Design &amp;amp; Analysis I is designed to provide the student with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles.</description>
     </item>
     

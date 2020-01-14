@@ -11,12 +11,78 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Testing</title>
-      <link>/teaching/testing/</link>
+      <title>Statistical Foundations</title>
+      <link>/teaching/foundation/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/testing/</guid>
+      <guid>/teaching/foundation/</guid>
       <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: This course was historically called “Research Design and
+Analysis I”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div id=&#34;overview&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.&lt;/p&gt;
+&lt;p&gt;This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. Students will also learn how to:
+1) Use the &lt;code&gt;R&lt;/code&gt; statistical programming environment &lt;em&gt;(via the &lt;code&gt;R Studio&lt;/code&gt; IDE)&lt;/em&gt; to analyze data and
+2) Interpret and communicate the results of analyses &lt;em&gt;(including creating reproducible research reports with R Markdown)&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Syllabus: 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div id=&#34;lectures&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Lectures&lt;/h1&gt;
+&lt;div id=&#34;preparatory-topics-and-exploratory-analysis&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Preparatory Topics and Exploratory Analysis&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th&gt;Chapter&lt;/th&gt;
+&lt;th&gt;Content&lt;/th&gt;
+&lt;th&gt;Slides&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Intro to the Course&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Textbook&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;APA Format Pertaining to Quantitative Analysis&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Variables, Scales, Rounding, &amp;amp; Summation&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Exploration of Data with Plots&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Summarizing Data with Descriptive Statistics&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Standardized Scores &amp;amp; The Normal Distribution&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -42,10 +108,10 @@
     
     <item>
       <title>Statistical Foundations</title>
-      <link>/teaching/foundations/</link>
+      <link>/teaching/_old_foundations/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/foundations/</guid>
+      <guid>/teaching/_old_foundations/</guid>
       <description>
 
 &lt;h2 id=&#34;basic-information&#34;&gt;Basic Information&lt;/h2&gt;
