@@ -23,14 +23,14 @@ This course will mostly focus on basic statistical techniques and several forms 
 
 2. Interpret and communicate the results of analyses *(including creating reproducible research reports with R Markdown)*.
 
-> **Syllabus: 2020**
+> **Syllabus:** [Spring 2020 - Dr. Schwartz](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
 
 
 
 # Lecture Slides
 
-| Chapter | Content | Slides |
-| ------- | ------- | ------ |
+| Chapter | Content Covered | Links to Slides |
+|:-------:| ------- |:------:|
 |    | Intro to the Course | |
 |    | Cohen's Textbook, 4th edition | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) |
 |    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
