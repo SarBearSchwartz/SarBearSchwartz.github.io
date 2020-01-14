@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/project/ebook_project/</loc>
+      <loc>/teaching/ebook_project/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/project/psy7650_project/</loc>
+      <loc>/teaching/ebooks/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,16 @@
     
     <url>
     
-      <loc>/project/psy6600_project/</loc>
+      <loc>/teaching/mlm/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/foundations/</loc>
       <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>/project/ssworkshops/</loc>
+      <loc>/teaching/ssworkshops/</loc>
       <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -166,16 +175,6 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/psy-6600/</loc>
       <lastmod>2018-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -277,6 +276,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/</loc>
+      <lastmod>2018-01-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

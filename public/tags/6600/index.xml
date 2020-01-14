@@ -14,19 +14,28 @@
     
     <item>
       <title>Encyclopedia of Quantitative Methods in R</title>
-      <link>/project/ebook_project/</link>
+      <link>/teaching/ebook_project/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/ebook_project/</guid>
+      <guid>/teaching/ebook_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encyclopedia of Quantitative Methods in R</title>
+      <link>/teaching/ebooks/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/ebooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psy6600 &amp; Educ 6600</title>
-      <link>/project/psy6600_project/</link>
+      <link>/teaching/foundations/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/psy6600_project/</guid>
+      <guid>/teaching/foundations/</guid>
       <description>Basic Information  USU, CEHS graduate student&amp;rsquo;s 1st course in quantitative methods Held: Spring Semester 2018, Tues and Thursday 4:40-5:45pm Cross listed as Psy 6600 and Educ 6600 Students may attend at the Logan campus or at a USU distance site  Course Purpose Research Design &amp;amp; Analysis I is designed to provide the student with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles.</description>
     </item>
     
