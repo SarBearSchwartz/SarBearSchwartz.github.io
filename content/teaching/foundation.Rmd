@@ -4,6 +4,7 @@ title: "Statistical Foundations"
 summary: "USU graduate course EDUC/PSY 6600"
 tags: ["teaching"]
 image_preview: "hex/hex_6600.PNG"
+image: "hex/hex_6600.PNG"
 ---
 
 

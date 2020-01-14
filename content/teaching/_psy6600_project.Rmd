@@ -1,7 +1,0 @@
----
-date: "2018-01-11"
-title: "Psy6600 & Educ 6600"
-summary: "USU Course: Research Design and Analysis I, CEHS grad student's 1st quantitative methods class"
-tags: ["6600", "spring"]
-image_preview: "psy6600_square.PNG"
----
