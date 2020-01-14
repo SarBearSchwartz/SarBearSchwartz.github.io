@@ -3,23 +3,23 @@
 date = "2018-01-11"
 
 # Project title.
-title = "Psy6600 & Educ 6600"
+title = "Statistical Foundations"
 
 # Project summary to display on homepage.
-summary = "USU Course: Research Design and Analysis I, CEHS grad student's 1st quantitative methods class"
+summary = "USU Course: cross-listed as EDUC 6600 and PSY 6600"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "psy6600_square.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["6600", "spring"]
+tags = ["6600", "spring", "summer"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
