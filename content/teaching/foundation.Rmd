@@ -4,7 +4,7 @@ title: "Statistical Foundations"
 summary: "USU graduate course EDUC/PSY 6600"
 tags: ["teaching"]
 image_preview: "hex/hex_6600.PNG"
-image: "hex/hex_6600.PNG"
+image: "header_foundation.png"
 ---
 
 
@@ -16,20 +16,25 @@ image: "hex/hex_6600.PNG"
 
 Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. 
 
+
+> Note: This course was historically called "Research Design and
+Analysis I"
+
+
 ### Focus
 
-This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. Students will also learn how to:    
+This course will mostly focus on **basic statistical techniques** and several forms of the **ANOVA model**, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. 
+
+Students will also learn how to:    
 
 1. Use the `R` statistical programming environment *(via the `R Studio` IDE)* to analyze data and     
 
 2. Interpret and communicate the results of analyses *(including creating reproducible research reports with R Markdown)*.
 
-> Note: This course was historically called "Research Design and
-Analysis I"
 
 ### Syllabus
 
-* [Spring 2020 - Dr. Schwartz](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
+* [Spring 2020 - Dr. Schwartz (Mon/Wed 4:30-5:45 pm)](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
 
 -----
 
@@ -64,6 +69,10 @@ Analysis I"
 
 ### The Encyclopedia for Quantitative Methods in R
 
+
+
 This wesite contains course content and general methods using R and R Studio.
 
  Link: https://cehs-research.github.io/eBooks/ 
+
+
