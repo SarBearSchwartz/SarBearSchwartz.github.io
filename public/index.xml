@@ -17,9 +17,11 @@
       
       <guid>/teaching/foundation/</guid>
       <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
-&lt;div id=&#34;overview&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Overview&lt;/h1&gt;
+&lt;div id=&#34;overview&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.&lt;/p&gt;
+&lt;div id=&#34;focus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Focus&lt;/h3&gt;
 &lt;p&gt;This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. Students will also learn how to:&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;p&gt;Use the &lt;code&gt;R&lt;/code&gt; statistical programming environment &lt;em&gt;(via the &lt;code&gt;R Studio&lt;/code&gt; IDE)&lt;/em&gt; to analyze data and&lt;/p&gt;&lt;/li&gt;
@@ -29,17 +31,19 @@
 &lt;p&gt;Note: This course was historically called “Research Design and
 Analysis I”&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div id=&#34;syllabus&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Syllabus&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div id=&#34;syllabus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Syllabus&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2020.pdf&#34;&gt;Spring 2020 - Dr. Schwartz&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div id=&#34;resources&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Resources&lt;/h1&gt;
-&lt;div id=&#34;lecture-slides&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lecture Slides&lt;/h2&gt;
+&lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;div id=&#34;lecture-slides&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Lecture Slides&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
@@ -162,8 +166,8 @@ Analysis I”&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;the-encyclopedia-for-quantitative-methods-in-r&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;The Encyclopedia for Quantitative Methods in R&lt;/h2&gt;
+&lt;div id=&#34;the-encyclopedia-for-quantitative-methods-in-r&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;The Encyclopedia for Quantitative Methods in R&lt;/h3&gt;
 &lt;p&gt;This wesite contains course content and general methods using R and R Studio.&lt;/p&gt;
 &lt;p&gt;Link: &lt;a href=&#34;https://cehs-research.github.io/eBooks/&#34; class=&#34;uri&#34;&gt;https://cehs-research.github.io/eBooks/&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;

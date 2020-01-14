@@ -12,9 +12,11 @@ image: "hex/hex_6600.PNG"
 
 
 
-# Overview
+## Overview
 
 Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. 
+
+### Focus
 
 This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. Students will also learn how to:    
 
@@ -25,14 +27,15 @@ This course will mostly focus on basic statistical techniques and several forms 
 > Note: This course was historically called "Research Design and
 Analysis I"
 
-## Syllabus
+### Syllabus
 
 * [Spring 2020 - Dr. Schwartz](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
 
+-----
 
-# Resources
+## Resources
 
-## Lecture Slides
+### Lecture Slides
 
 | Chapter | Content Covered | Links to Slides |
 |:-------:| ------- |:------:|
@@ -59,7 +62,7 @@ Analysis I"
 | 19 | The Binomial Distribution | |
 | 20 | Chi-Squared Tests | |
 
-## The Encyclopedia for Quantitative Methods in R
+### The Encyclopedia for Quantitative Methods in R
 
 This wesite contains course content and general methods using R and R Studio.
 
