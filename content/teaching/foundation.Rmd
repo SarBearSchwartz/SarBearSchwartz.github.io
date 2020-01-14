@@ -11,7 +11,7 @@ header:
 
 <!-- Note: image relative to `static/img/` folder  -->
 
-
+-------
 
 ## Overview
 
@@ -71,6 +71,9 @@ Students will also learn how to:
 | 16 | 2-way Mixed Design ANOVA | |
 | 19 | The Binomial Distribution | |
 | 20 | Chi-Squared Tests | |
+
+
+
 
 ### The Encyclopedia for Quantitative Methods in R
 
