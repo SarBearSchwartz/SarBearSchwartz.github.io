@@ -32,8 +32,8 @@ This course will mostly focus on basic statistical techniques and several forms 
 | Chapter | Content | Slides |
 | ------- | ------- | ------ |
 |    | Intro to the Course | |
-|    | Cohen's Textbook, 4th edition |  |
-|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) [PowerPoint](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th..pptx) |
+|    | Cohen's Textbook, 4th edition | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) [PowerPoint](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) |
+|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) [PowerPoint](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
 |    | Intro to R | [html]() |
 | 1  | Variables, Scales, Rounding, & Summation | [html]() |
 | 2  | Exploration of Data with Plots | |
