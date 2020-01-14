@@ -1,5 +1,5 @@
 ---
-date: "2020-01-10"
+date: "2020-01-14"
 title: "Statistical Foundations"
 summary: "USU graduate course EDUC/PSY 6600"
 tags: ["teaching"]
@@ -10,8 +10,7 @@ image: "hex/hex_6600.PNG"
 
 <!-- Note: image relative to `static/img/` folder  -->
 
-> Note: This course was historically called "Research Design and
-Analysis I"
+
 
 # Overview
 
@@ -23,11 +22,17 @@ This course will mostly focus on basic statistical techniques and several forms 
 
 2. Interpret and communicate the results of analyses *(including creating reproducible research reports with R Markdown)*.
 
-> **Syllabus:** [Spring 2020 - Dr. Schwartz](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
+> Note: This course was historically called "Research Design and
+Analysis I"
+
+## Syllabus
+
+* [Spring 2020 - Dr. Schwartz](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
 
 
+# Resources
 
-# Lecture Slides
+## Lecture Slides
 
 | Chapter | Content Covered | Links to Slides |
 |:-------:| ------- |:------:|
@@ -54,4 +59,8 @@ This course will mostly focus on basic statistical techniques and several forms 
 | 19 | The Binomial Distribution | |
 | 20 | Chi-Squared Tests | |
 
+## The Encyclopedia for Quantitative Methods in R
 
+This wesite contains course content and general methods using R and R Studio.
+
+ Link: https://cehs-research.github.io/eBooks/ 
