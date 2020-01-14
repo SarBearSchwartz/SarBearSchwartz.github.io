@@ -17,9 +17,11 @@ Analysis I"
 
 Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. 
 
-This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. Students will also learn how to: 
-1) Use the `R` statistical programming environment *(via the `R Studio` IDE)* to analyze data and 
-2) Interpret and communicate the results of analyses *(including creating reproducible research reports with R Markdown)*.
+This course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses. Students will also learn how to:    
+
+1. Use the `R` statistical programming environment *(via the `R Studio` IDE)* to analyze data and     
+
+2. Interpret and communicate the results of analyses *(including creating reproducible research reports with R Markdown)*.
 
 > **Syllabus: 2020**
 
@@ -30,9 +32,10 @@ This course will mostly focus on basic statistical techniques and several forms 
 | Chapter | Content | Slides |
 | ------- | ------- | ------ |
 |    | Intro to the Course | |
-|    | Textbook | |
-|    | APA Format Pertaining to Quantitative Analysis | |
-| 1  | Variables, Scales, Rounding, & Summation | |
+|    | Cohen's Textbook, 4th edition | [PDF](https://github.com/CEHS-research/PSY-6600_public/raw/master/slides/ch0_apa_6th.pdf) [APA]() |
+|    | APA Format Pertaining to Quantitative Analysis | [PDF]() [APA]() |
+|    | Intro to R | [html]() |
+| 1  | Variables, Scales, Rounding, & Summation | [html]() |
 | 2  | Exploration of Data with Plots | |
 | 3  | Summarizing Data with Descriptive Statistics | |
 | 4  | Standardized Scores & The Normal Distribution | |
