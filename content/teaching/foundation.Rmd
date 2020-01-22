@@ -54,10 +54,10 @@ Students will also learn how to:
 |    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
 |    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) |
 | 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |
-| 2  | Exploration of Data with Plots | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.pdf)  |
-| 3  | Summarizing Data with Descriptive Statistics | |
-| 4  | Standardized Scores & The Normal Distribution | |
-| 5  | Intro to Hypothesis Testing: 1 Sample z-test | |
+| 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |
+| 3  | Summarizing Data with Descriptive Statistics | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html)  |
+| 4  | Standardized Scores & The Normal Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html) |
+| 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)|
 | 6  | Confidence Interval Estimation: The t Distribution | |
 | 7  | Independent Samples t-Test for Means | |
 | 8  | Statistical Power & Effect Size | |
