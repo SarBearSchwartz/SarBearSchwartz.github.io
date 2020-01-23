@@ -43,6 +43,18 @@ Students will also learn how to:
 
 ## Resources
 
+* [Explaining Psychological Statistics, 4th edition](https://www.wiley.com/en-us/Explaining+Psychological+Statistics%2C+4th+Edition-p-9781118436608) - by Barry Cohen
+    - FREE (USU login): [USU library](http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658)
+    - Amazon: [$90 used, $140 new](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)
+
+
+* [Encyclopedia for Quantitative Methods in R](https://cehs-research.github.io/eBooks/)
+    - [Vol 1. Setting up Your Computer](https://cehs-research.github.io/eBook_install)
+    - [Vol 3. Exploring Your Data](https://cehs-research.github.io/eBook_explore/)
+    - [Vol 4. Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)
+
+* Video Recordings: [YouTube: Sarah Schawrtz Stats](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)
+
 -----
 
 ### Lecture Slides
