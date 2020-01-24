@@ -64,7 +64,7 @@ hexSticker::sticker("square_logo.PNG",
                     u_color  = "#FFFFFF",
                     s_x      = 1, 
                     s_y      = .8, 
-                    s_height = .7,
+                    s_height = 1,
                     h_fill   = "#0F2439",
                     h_color  = "#8A8D8F",
                     filename = "hex/hex_eBooks.png")
@@ -76,18 +76,16 @@ hexSticker::sticker("square_logo.PNG",
 ```{r}
 hexSticker::sticker("hex/superman_r_logo.PNG",
                     s_x      = 1, 
-                    s_y      = .8, 
-                    s_width  = .8,
+                    s_y      = .7, 
+                    s_width  = .6,
                     package  ="Sarah Schwartz Stats", 
-                    p_x      = 1,
-                    p_y      = 1.47, 
                     p_size   = 12.75, 
-                    p_color  = "#0000ff",
+                    p_color  = "#FFFFFF",
                     url      = "www.SarahSchwartzStats.com",
                     u_size   = 5,
-                    u_color  = "#0000FF",
-                    h_fill   = "#BFE6FF",
-                    h_color  = "#FF0000",
+                    u_color  = "#FFFFFF",
+                    h_fill   = "#0F2439",
+                    h_color  = "#8A8D8F",
                     filename = "hex/hex_SSS.png")
 ```
 
@@ -97,21 +95,38 @@ hexSticker::sticker("hex/superman_r_logo.PNG",
 ```{r}
 hexSticker::sticker("hex/superman_r_logo.PNG",
                     s_x      = 1, 
-                    s_y      = .8, 
-                    s_width  = .8,
+                    s_y      = .7, 
+                    s_width  = .6,
                     package  ="YouTube", 
-                    p_x      = 1,
-                    p_y      = 1.47, 
-                    p_size   = 20, 
-                    p_color  = "#0000ff",
+                    p_size   = 15, 
+                    p_color  = "#FFFFFF",
                     url      = "www.SarahSchwartzStats.com",
                     u_size   = 5,
-                    u_color  = "#0000FF",
-                    h_fill   = "#BFE6FF",
-                    h_color  = "#FF0000",
+                    u_color  = "#FFFFFF",
+                    h_fill   = "#0F2439",
+                    h_color  = "#8A8D8F",
                     filename = "hex/hex_YouTube.png")
 ```
 
 
+# Headshot
+
+```{r}
+hexSticker::sticker("hex/SarahSchwartz_headshot_picture.png",
+                    s_x      = .975, 
+                    s_y      = 1.005, 
+                    s_width  = .85,
+                    asp      = 1.29,
+                    package  ="", 
+                    p_x      = 1,
+                    p_y      = 1, 
+                    p_size   = 20, 
+                    p_color  = "#0000ff",
+                    url      = "www.SarahSchwartzStats.com",
+                    u_size   = 5,
+                    u_color  = "#FFFFFF",
+                    h_color  = "#8A8D8F",
+                    filename = "hex/hex_headshot.png")
+```
 
 
