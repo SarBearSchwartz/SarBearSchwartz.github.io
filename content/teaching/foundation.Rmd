@@ -70,8 +70,8 @@ Students will also learn how to:
 | 3  | Summarizing Data with Descriptive Statistics | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html)  |
 | 4  | Standardized Scores & The Normal Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html) |
 | 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)|
-| 6  | Confidence Interval Estimation: The t Distribution | |
-| 7  | Independent Samples t-Test for Means | |
+| 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) |
+| 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)|
 | 8  | Statistical Power & Effect Size | |
 | 9  | Linear Correlation | |
 | 10 | Linear Regression | |
