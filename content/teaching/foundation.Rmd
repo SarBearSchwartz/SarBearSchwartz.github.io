@@ -43,20 +43,27 @@ Students will also learn how to:
 
 ## Resources
 
-* [Explaining Psychological Statistics, 4th edition](https://www.wiley.com/en-us/Explaining+Psychological+Statistics%2C+4th+Edition-p-9781118436608) - by Barry Cohen
-    - FREE (USU login): [USU library](http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658)
-    - Amazon: [purchase](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)
+Explaining Psychological Statistics, 4th edition, by Barry Cohen    
+* USU library [Free, with USU login](http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658)
+* Amazon [purchase, new or used](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)
+    
 
-
-* [Encyclopedia for Quantitative Methods in R](https://cehs-research.github.io/eBooks/)
-    - [Vol 1. Setting up Your Computer](https://cehs-research.github.io/eBook_install)
-    - [Vol 3. Exploring Your Data](https://cehs-research.github.io/eBook_explore/)
-    - [Vol 4. Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)
-
-* Video Recordings: [YouTube: Sarah Schawrtz Stats](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)
-
-* A [PDF](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf) with all the formulas we use in the class.
-* A [PDF](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf.pdf) with all the tables we use in the class.
+Encyclopedia for Quantitative Methods in R    
+* [Vol 1. Setting up Your Computer](https://cehs-research.github.io/eBook_install)
+* [Vol 3. Exploring Your Data](https://cehs-research.github.io/eBook_explore/)
+* [Vol 4. Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)
+    
+    
+YouTube Video Recordings: Sarah Schawrtz Stats
+* [General](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)
+* [In-class Recordings, Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz)
+* [Out-of-Class Recordings](https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG)
+* [Homework Helps](https://www.youtube.com/playlist?list=PLtAksNetLqNpF9LFkhxCTNcojQOP0G9ep)
+* [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2)
+    
+Downloadable PDFs for use in class:        
+* [formulas](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf) 
+* [tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf.pdf) 
 
 -----
 
