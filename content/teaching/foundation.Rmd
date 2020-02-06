@@ -45,15 +45,15 @@ Students will also learn how to:
 
 **Explaining Psychological Statistics**, 4th edition, by Barry Cohen    
 
-* USU library [Free, with USU login](http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658)    
-* Amazon [purchase, new or used](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)    
+* USU library: [Free, with USU login](http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658)    
+* Amazon: [purchase, new or used](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)    
     
 
 **Encyclopedia for Quantitative Methods in R **   
 
-* [Vol 1. Setting up Your Computer](https://cehs-research.github.io/eBook_install)    
-* [Vol 3. Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
-* [Vol 4. Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)    
+* Vol 1. [Setting up Your Computer](https://cehs-research.github.io/eBook_install)    
+* Vol 3. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
+* Vol 4. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)    
     
     
 **YouTube: Sarah Schawrtz Stats**
@@ -86,10 +86,10 @@ Students will also learn how to:
 | 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| [HW 5](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf) |
 | 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | [HW 6](https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf) |
 | 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) |
-| 8  | Statistical Power & Effect Size | | |
-| 9  | Linear Correlation | | |
-| 10 | Linear Regression | | |
-| 11 | Matched t-Test | | |
+| 8  | Statistical Power & Effect Size | | [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf)|
+| 9  | Linear Correlation | | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) |
+| 10 | Linear Regression | | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)|
+| 11 | Matched t-Test | | [HW 11](https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf)|
 | 12 | 1-way Independent Groups ANOVA | | |
 | 13 | Multiple Comparisons | | |
 | 14 | 2-way ANOVA | | |
