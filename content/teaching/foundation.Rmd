@@ -73,30 +73,31 @@ Students will also learn how to:
 
 ### Lecture Slides
 
-| Chapter | Content Covered | Links to Slides |
-|:-------:| ------- |:------:|
-|    | Intro to the Course | |
-|    | Cohen's Textbook, 4th edition | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) |
+| Chapter | Topic | Slides | Worksheet |
+|:-------:| ------- |:------:|:------:|
+|    | Intro to the Course | | |
+|    | Cohen's Textbook, 4th edition | | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | |
 |    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
-|    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) |
-| 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |
-| 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |
-| 3  | Summarizing Data with Descriptive Statistics | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html)  |
-| 4  | Standardized Scores & The Normal Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html) |
-| 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)|
-| 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) |
-| 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)|
-| 8  | Statistical Power & Effect Size | |
-| 9  | Linear Correlation | |
-| 10 | Linear Regression | |
-| 11 | Matched t-Test | |
-| 12 | 1-way Independent Groups ANOVA | |
-| 13 | Multiple Comparisons | |
-| 14 | 2-way ANOVA | |
-| 15 | Repeated Measures ANOVA | |
-| 16 | 2-way Mixed Design ANOVA | |
-| 19 | The Binomial Distribution | |
-| 20 | Chi-Squared Tests | |
+|    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) | |
+| 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  | |
+| 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  | |
+| 3  | Summarizing Data with Descriptive Statistics | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html)  | |
+| 4  | Standardized Scores & The Normal Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html) | |
+| 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| 
+[PDF](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf))|
+| 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | |
+| 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| |
+| 8  | Statistical Power & Effect Size | | |
+| 9  | Linear Correlation | | |
+| 10 | Linear Regression | | |
+| 11 | Matched t-Test | | |
+| 12 | 1-way Independent Groups ANOVA | | |
+| 13 | Multiple Comparisons | | |
+| 14 | 2-way ANOVA | | |
+| 15 | Repeated Measures ANOVA | | |
+| 16 | 2-way Mixed Design ANOVA | | |
+| 19 | The Binomial Distribution | | |
+| 20 | Chi-Squared Tests | | |
 
 
 
