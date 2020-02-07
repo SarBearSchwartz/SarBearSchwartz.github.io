@@ -11,11 +11,7 @@ header:
 
 <!-- Note: image relative to `static/img/` folder  -->
 
--------
 
-## Overview
-
-------
 
 Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. 
 
@@ -68,15 +64,13 @@ Downloadables: **PDFs for references**
 * [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf)     
 * [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf)     
 
------
 
-### Lecture Slides
 
-| Chapter | Topic | Slides | Worksheet |
+| Chapters | Topics | Slides | Worksheets |
 |:-------:| ------- |:------:|:------:|
 |    | Intro to the Course | | |
-|    | Cohen's Textbook, 4th edition |  [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | |
-|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [Power Point](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
+|    | Cohen's Textbook, 4th edition |  [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | |
+|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
 |    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) | |
 | 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |  [HW 1](https://cehs-research.github.io/PSY-6600_public/assignments/hw1_worksheet.pdf)|
 | 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |  [HW 2](https://cehs-research.github.io/PSY-6600_public/assignments/hw2_worksheet.pdf)|
@@ -99,13 +93,5 @@ Downloadables: **PDFs for references**
 
 
 
-
-### The Encyclopedia for Quantitative Methods in R
-
-
-
-This wesite contains course content and general methods using R and R Studio.
-
- Link: https://cehs-research.github.io/eBooks/ 
 
 

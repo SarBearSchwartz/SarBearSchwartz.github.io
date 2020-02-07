@@ -17,10 +17,6 @@
       
       <guid>/teaching/foundation/</guid>
       <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
-&lt;hr /&gt;
-&lt;div id=&#34;overview&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Overview&lt;/h2&gt;
-&lt;hr /&gt;
 &lt;p&gt;Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: This course was historically called “Research Design and
@@ -41,7 +37,6 @@ Analysis I”&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2020.pdf&#34;&gt;Spring 2020 - Dr. Schwartz (Mon/Wed 4:30-5:45 pm)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -75,16 +70,13 @@ Analysis I”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/psy6600%20statistical%20tables.pdf&#34;&gt;Look-up Tables&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;div id=&#34;lecture-slides&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Lecture Slides&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;center&#34;&gt;Chapter&lt;/th&gt;
-&lt;th&gt;Topic&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Chapters&lt;/th&gt;
+&lt;th&gt;Topics&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;Slides&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Worksheet&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Worksheets&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -97,13 +89,13 @@ Analysis I”&lt;/p&gt;
 &lt;tr class=&#34;even&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;td&gt;Cohen’s Textbook, 4th edition&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf&#34;&gt;PDF&lt;/a&gt; or &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx&#34;&gt;Power Point&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf&#34;&gt;PDF&lt;/a&gt; or &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;td&gt;APA Format Pertaining to Quantitative Analysis&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf&#34;&gt;PDF&lt;/a&gt; or &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx&#34;&gt;Power Point&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf&#34;&gt;PDF&lt;/a&gt; or &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
@@ -222,12 +214,6 @@ Analysis I”&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;/div&gt;
-&lt;div id=&#34;the-encyclopedia-for-quantitative-methods-in-r&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;The Encyclopedia for Quantitative Methods in R&lt;/h3&gt;
-&lt;p&gt;This wesite contains course content and general methods using R and R Studio.&lt;/p&gt;
-&lt;p&gt;Link: &lt;a href=&#34;https://cehs-research.github.io/eBooks/&#34; class=&#34;uri&#34;&gt;https://cehs-research.github.io/eBooks/&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
