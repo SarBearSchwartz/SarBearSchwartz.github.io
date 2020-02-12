@@ -79,8 +79,8 @@ Downloadables: **PDFs for references**
 | 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| [HW 5](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf) |
 | 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | [HW 6](https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf) |
 | 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) |
-| 8  | Statistical Power & Effect Size | | [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf)|
-| 9  | Linear Correlation | | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) |
+| 8  | Statistical Power & Effect Size | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf)|
+| 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html)| [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) |
 | 10 | Linear Regression | | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)|
 | 11 | Matched t-Test | | [HW 11](https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf)|
 | 12 | 1-way Independent Groups ANOVA | |  [HW 12](https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf)|
