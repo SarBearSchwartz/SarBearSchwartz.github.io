@@ -66,30 +66,30 @@ Downloadables: **PDFs for references**
 
 
 
-| Chapters | Topics | Slides | Worksheets |
-|:-------:| ------- |:------:|:------:|
-|    | Intro to the Course | | |
-|    | Cohen's Textbook, 4th edition |  [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | |
-|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) |
-|    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) | |
-| 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |  [HW 1](https://cehs-research.github.io/PSY-6600_public/assignments/hw1_worksheet.pdf)|
-| 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |  [HW 2](https://cehs-research.github.io/PSY-6600_public/assignments/hw2_worksheet.pdf)|
-| 3  | Summarizing Data with Descriptive Statistics | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html)  |  [HW 3](https://cehs-research.github.io/PSY-6600_public/assignments/hw3_worksheet.pdf)|
-| 4  | Standardized Scores & The Normal Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html) |  [HW 4](https://cehs-research.github.io/PSY-6600_public/assignments/hw4_worksheet.pdf)|
-| 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| [HW 5](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf) |
-| 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | [HW 6](https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf) |
-| 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) |
+| Chapters | Topics | Slides | Worksheets | R Skeleton |
+|:-------:| ------- |:------:|:------:|:------:|
+|    | Intro to the Course | | | |
+|    | Cohen's Textbook, 4th edition |  [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | | |
+|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) | |
+|    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) | | |
+| 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |  [HW 1](https://cehs-research.github.io/PSY-6600_public/assignments/hw1_worksheet.pdf)| |
+| 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |  [HW 2](https://cehs-research.github.io/PSY-6600_public/assignments/hw2_worksheet.pdf)| |
+| 3  | Summarizing Data with Descriptive Statistics | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html)  |  [HW 3](https://cehs-research.github.io/PSY-6600_public/assignments/hw3_worksheet.pdf)| |
+| 4  | Standardized Scores & The Normal Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html) |  [HW 4](https://cehs-research.github.io/PSY-6600_public/assignments/hw4_worksheet.pdf)| |
+| 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| [HW 5](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf) | |
+| 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | [HW 6](https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf) | |
+| 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) | |
 | 8  | Statistical Power & Effect Size | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf)|
-| 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html)| [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) |
-| 10 | Linear Regression | | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)|
+| 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html) | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) | NA |
+| 10 | Linear Regression | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html) | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)| [HTML](https://cehs-research.github.io/PSY-6600_public/assignments/ch10_reg.html) |
 | 11 | Matched t-Test | | [HW 11](https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf)|
-| 12 | 1-way Independent Groups ANOVA | |  [HW 12](https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf)|
-| 13 | Multiple Comparisons | |  [HW 13](https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf)|
-| 14 | 2-way ANOVA | |  [HW 14](https://cehs-research.github.io/PSY-6600_public/assignments/hw14_worksheet.pdf)|
-| 15 | Repeated Measures ANOVA | |  [HW 15](https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf)|
-| 16 | 2-way Mixed Design ANOVA | |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)|
-| 19 | The Binomial Distribution | | |
-| 20 | Chi-Squared Tests | | |
+| 12 | 1-way Independent Groups ANOVA | |  [HW 12](https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf)| |
+| 13 | Multiple Comparisons | |  [HW 13](https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf)| |
+| 14 | 2-way ANOVA | |  [HW 14](https://cehs-research.github.io/PSY-6600_public/assignments/hw14_worksheet.pdf)| |
+| 15 | Repeated Measures ANOVA | |  [HW 15](https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf)| |
+| 16 | 2-way Mixed Design ANOVA | |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)| |
+| 19 | The Binomial Distribution | | | |
+| 20 | Chi-Squared Tests | | | |
 
 
 
