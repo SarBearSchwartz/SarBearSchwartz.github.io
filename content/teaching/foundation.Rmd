@@ -79,9 +79,9 @@ Downloadables: **PDFs for references**
 | 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| [HW 5](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf) | |
 | 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | [HW 6](https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf) | |
 | 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) | |
-| 8  | Statistical Power & Effect Size | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf)|
-| 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html) | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) | NA |
-| 10 | Linear Regression | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html) | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)| [HTML](https://cehs-research.github.io/PSY-6600_public/assignments/ch10_reg.html) |
+| 8  | Statistical Power & Effect Size | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf) | NA |
+| 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html) | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) | [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 9 Assignment R Skeleton.Rmd) |
+| 10 | Linear Regression | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html) | [PDF](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 10 Assignment R Skeleton.Rmd) |
 | 11 | Matched t-Test | | [HW 11](https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf)|
 | 12 | 1-way Independent Groups ANOVA | |  [HW 12](https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf)| |
 | 13 | Multiple Comparisons | |  [HW 13](https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf)| |
@@ -90,8 +90,5 @@ Downloadables: **PDFs for references**
 | 16 | 2-way Mixed Design ANOVA | |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)| |
 | 19 | The Binomial Distribution | | | |
 | 20 | Chi-Squared Tests | | | |
-
-
-
 
 
