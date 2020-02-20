@@ -63,7 +63,7 @@ YOUTUBE: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp
     
 Downloadables:      
 
-* Ihno's Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/data/Ihno_dataset.xls)
+* Ihno's Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.xls), [data dictionary](https://cehs-research.github.io/PSY-6600_public/Data/Appendix C Ihno Data Key.pdf)
 
 * [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf)     
 * [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf)     
