@@ -47,9 +47,11 @@ TEXTBOOK: **Explaining Psychological Statistics**, 4th edition, by Barry Cohen
 
 EXAMPLES: **Encyclopedia for Quantitative Methods in R **   
 
-* Vol 1. [Setting up Your Computer](https://cehs-research.github.io/eBook_install)    
-* Vol 3. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
-* Vol 4. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)    
+* Vol 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
+* Vol 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
+* Vol 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
+* Vol 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)  
+* Vol 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
     
     
 YOUTUBE: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
@@ -59,7 +61,9 @@ YOUTUBE: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp
 * [Homework Helps](https://www.youtube.com/playlist?list=PLtAksNetLqNpF9LFkhxCTNcojQOP0G9ep)    
 * [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2)    
     
-Downloadables: **PDFs for references**       
+Downloadables:      
+
+* Ihno's Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/data/Ihno_dataset.xls)
 
 * [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf)     
 * [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf)     
@@ -86,8 +90,8 @@ Downloadables: **PDFs for references**
 | 12 | 1-way Independent Groups ANOVA | |  [HW 12](https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 12 Assignment R Skeleton.Rmd) |
 | 13 | Multiple Comparisons | |  [HW 13](https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 13 Assignment R Skeleton.Rmd) |
 | 14 | 2-way ANOVA | |  [HW 14](https://cehs-research.github.io/PSY-6600_public/assignments/hw14_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 14 Assignment R Skeleton.Rmd) |
-| 15 | Repeated Measures ANOVA | |  [HW 15](https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf)| |
-| 16 | 2-way Mixed Design ANOVA | |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)| |
+| 15 | Repeated Measures ANOVA | |  [HW 15](https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 15 Assignment R Skeleton.Rmd)  |
+| 16 | 2-way Mixed Design ANOVA | |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 16 Assignment R Skeleton.Rmd) |
 | 19 | The Binomial Distribution | | | |
 | 20 | Chi-Squared Tests | | | |
 
