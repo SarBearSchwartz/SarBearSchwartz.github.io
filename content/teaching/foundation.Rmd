@@ -69,6 +69,8 @@ Downloadables:
 * [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf)     
 
 
+* [PPTX Example Chap ](https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorialExample.pptx)
+
 
 | Chapters | Topics | Slides | Worksheets | R Skeleton |
 |:-------:| ------- |:------:|:------:|:------:|
@@ -85,14 +87,15 @@ Downloadables:
 | 7  | Independent Samples t-Test for Means | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) | [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 7 Assignment R Skeleton.Rmd) |
 | 8  | Statistical Power & Effect Size | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf) | NA |
 | 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html) | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) | [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 9 Assignment R Skeleton.Rmd) |
-| 10 | Linear Regression | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html) | [PDF](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 10 Assignment R Skeleton.Rmd) |
+| 10 | Linear Regression | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html) | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 10 Assignment R Skeleton.Rmd) |
 | 11 | Matched t-Test | | [HW 11](https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 11 Assignment R Skeleton.Rmd) |
 | 12 | 1-way Independent Groups ANOVA |  [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch12_oneANOVA.pptx) |  [HW 12](https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 12 Assignment R Skeleton.Rmd) |
-| 13 | Multiple Comparisons | |  [HW 13](https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 13 Assignment R Skeleton.Rmd) |
-| 14 | 2-way ANOVA | |  [HW 14](https://cehs-research.github.io/PSY-6600_public/assignments/hw14_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 14 Assignment R Skeleton.Rmd) |
-| 15 | Repeated Measures ANOVA | |  [HW 15](https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 15 Assignment R Skeleton.Rmd)  |
-| 16 | 2-way Mixed Design ANOVA | |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 16 Assignment R Skeleton.Rmd) |
-| 19 | The Binomial Distribution | | | |
+| 13 | Multiple Comparisons | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/Ch13_multcomp.pptx)
+|  [HW 13](https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 13 Assignment R Skeleton.Rmd) |
+| 14 | 2-way ANOVA | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorial.pptx)|  [HW 14](https://cehs-research.github.io/PSY-6600_public/assignments/hw14_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 14 Assignment R Skeleton.Rmd) |
+| 15 | Repeated Measures ANOVA | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/Ch15_rmANOVA.pptx) |  [HW 15](https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 15 Assignment R Skeleton.Rmd)  |
+| 16 | 2-way Mixed Design ANOVA | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/Ch16_mixANOVA.pptx) |  [HW 16](https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 16 Assignment R Skeleton.Rmd) |
+| 19 | The Binomial Distribution | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/Ch19-20_categorical.pptx)| [HW 19-20](https://cehs-research.github.io/PSY-6600_public/assignments/hw1920 worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/hw1920 assignment SKELETON R.Rmd) |
 | 20 | Chi-Squared Tests | | | |
 
 
