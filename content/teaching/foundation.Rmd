@@ -33,6 +33,8 @@ Students will also learn how to:
 
 ### Syllabus
 
+* [Summer 2020 - Dr. Schwartz (Mon/Wed 1:30-4:45 pm)](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2020.pdf)
+
 * [Spring 2020 - Dr. Schwartz (Mon/Wed 4:30-5:45 pm)](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
 
 -----
@@ -74,9 +76,8 @@ Downloadables:
 
 | Chapters | Topics | Slides | Worksheets | R Skeleton |
 |:-------:| ------- |:------:|:------:|:------:|
-|    | Intro to the Course | | | |
-|    | Cohen's Textbook, 4th edition |  [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | | |
-|    | APA Format Pertaining to Quantitative Analysis | [PDF](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pdf) or [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) | |
+|    | Cohen's Textbook, 4th edition |  [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | | |
+|    | APA Format Pertaining to Quantitative Analysis | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) | |
 |    | Intro to R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html) | | |
 | 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |  [HW 1](https://cehs-research.github.io/PSY-6600_public/assignments/hw1_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 1 Assignment R Skeleton.Rmd) |
 | 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |  [HW 2](https://cehs-research.github.io/PSY-6600_public/assignments/hw2_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 2 Assignment R Skeleton.Rmd) |
