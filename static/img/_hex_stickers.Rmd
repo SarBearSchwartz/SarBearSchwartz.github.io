@@ -8,10 +8,12 @@ output: html_notebook
 ```{r}
 library(tidyverse)
 library(hexSticker)
+library(lme4)
+library(sjPlot)
 ```
 
 
-
+# Foundations
 
 ```{r, fig.width=4, fig.height=4}
 p <- PlantGrowth %>% 
@@ -50,6 +52,79 @@ p %>%
 ```
 
 
+# Multilevel
+
+
+
+```{r}
+param <- data.frame(sex = c("boy", "girl"),
+           b = c(2, 4),
+           m = c(0.2, 1))
+
+
+data_raw <- data.frame(id = 1:20,
+                       sex = rep(c("boy", "girl"), times = 10))
+
+
+data_raw
+```
+
+```{r, fig.width=4, fig.height=4}
+
+
+m <- data_model %>% 
+  dplyr::mutate(pred = predict(pop_lmer_2_raw)) %>% 
+  dplyr::filter(class %in% 1:10) %>%
+  ggplot() +
+  aes(x = extrav,
+      y = pred,
+      group = interaction(class, sex)) +
+  geom_line(aes(color = sex),
+            alpha = .4,
+            size = .75) +
+  geom_abline(intercept = 4,
+              slope     = 1,
+              color = "red",
+              size = 2) +
+  geom_abline(intercept = 2,
+              slope     = 0.2,
+              color = "blue",
+              size = 2) +
+  theme_bw() +
+  labs(x = "X",
+       y = "Y") +
+  coord_cartesian(xlim = c(0, 10),
+                  ylim = c(0, 10)) +
+  scale_x_continuous(breaks = seq(from = -10, to = 10, by = 2)) +
+  scale_y_continuous(breaks = seq(from = -10, to = 10, by = 2)) +
+  scale_color_manual(values = c("blue", "red"))
+
+m + theme_dark()
+```
+
+
+
+```{r}
+m <- m +
+  theme_void() +
+  theme_transparent() +
+  theme(legend.position = "none")
+
+m %>% 
+  hexSticker::sticker(package  = "Multilevel Models", 
+                      p_size   = 15, 
+                      p_color  = "#FFFFFF",
+                      url      = "www.SarahSchwartzStats.com",
+                      u_size   = 5,
+                      u_color  = "#FFFFFF",
+                      s_x      = 1, 
+                      s_y      = .75, 
+                      s_width  = 1.3, 
+                      s_height = 1,
+                      h_fill   = "#0F2439",
+                      h_color  = "#8A8D8F",
+                      filename = "hex/hex_7650.png")
+```
 
 # Encyclopedia
 
