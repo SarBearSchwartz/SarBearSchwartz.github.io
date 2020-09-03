@@ -11,6 +11,150 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Multilevel and Marginal Modeling</title>
+      <link>/teaching/multilevel/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/multilevel/</guid>
+      <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
+&lt;p&gt;Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Heiarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).&lt;/p&gt;
+&lt;div id=&#34;focus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Focus&lt;/h3&gt;
+&lt;p&gt;Mastery of the material covered in this course will enable students to develop the skills necessary to conduct well-planned behavioral and educational research involving clustered or longitudinal designs, and thoughtful statistical analyses of the resulting data. Knowledge gained in this course will build upon concepts learned in prior research methodology and data analysis courses. Students will learn how to differentiate and appropriately select the best statistical methods for use in various clustered or longitudinal research designs.&lt;/p&gt;
+&lt;p&gt;As the theoretical is secondary to the applied approach to data analysis in this course, students will learn how
+to:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Use the &lt;code&gt;R&lt;/code&gt; statistical programming environment &lt;em&gt;(via the &lt;code&gt;R Studio&lt;/code&gt; IDE)&lt;/em&gt; to analyze &lt;strong&gt;clustered and
+longitudinal&lt;/strong&gt; data and&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Interpret and communicate the results of their analyses &lt;em&gt;(including creating reproducible research reports with R Markdown)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This course will only emphasize methods for manifest or observed, rather than latent or unobserved, variables.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Successful completion of EDUC/PSY 7610 or an equivalent course in &lt;em&gt;single level&lt;/em&gt; multiple linear regression is required.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div id=&#34;structure&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Structure&lt;/h3&gt;
+&lt;p&gt;This is a lecture and applied skills course and students will be expected to demonstrate their learning via classroom participation, written assignments, and a presentation. Much of the basic material will be presented in readings (textbook and supplements) and pre-recorded lectures which students will view prior to class. The purpose of class time (on Zoom) is to elaborate on interesting or difficult material presented in the text, conduct skill-building exercises and demonstrations, and to provide a forum for class discussions in more of a lab fashion. We will frequently use a hands-on approach in class, working through analyses together via computer software.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;syllabus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Syllabus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-7650_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2020.pdf&#34;&gt;Fall 2020 - Dr. Schwartz (Tue/Thr 4:30-6:00 pm)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2020.pdf&#34;&gt;Fall 2020 - Dr. Schwartz (Tue/Thr 4:30-6:00 pm)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;TEXTBOOKS:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Multilevel Analysis: Techniques and Applications&lt;/strong&gt;, 3rd edition (2018), by &lt;em&gt;Joop J. Hox, Mirjam Moerbeek, and Rens van de Schoot&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;USU library: &lt;a href=&#34;https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/detail.action?docID=5046900&#34;&gt;Free, with USU login&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Multilevel-Analysis-Quantitative-Methodology-Joop/dp/1138121363/ref=sr_1_1?dchild=1&amp;amp;keywords=*Multilevel+Analysis%3A+Techniques+and+Applications&amp;amp;qid=1599166381&amp;amp;sr=8-1&#34;&gt;purchase, new or used&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Publication Manual of the APA: The Official Guide to APA Style&lt;/strong&gt;, 7th edition (2020)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&amp;amp;me=&amp;amp;qid=1599166844&#34;&gt;purchase new&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EXAMPLES: &lt;strong&gt;Encyclopedia for Quantitative Methods in R &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vol 0. &lt;a href=&#34;https://cehs-research.github.io/eBook_install&#34;&gt;Setting up Your Computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vol 1. &lt;a href=&#34;https://cehs-research.github.io/eBook_wrangle/&#34;&gt;Wrangling Your Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vol 2. &lt;a href=&#34;https://cehs-research.github.io/eBook_explore/&#34;&gt;Exploring Your Data&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Vol 3. &lt;a href=&#34;https://cehs-research.github.io/eBook_ANOVA/&#34;&gt;Testing Mean Differences&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Vol 4. &lt;a href=&#34;https://cehs-research.github.io/eBook_regression/&#34;&gt;Correlation &amp;amp; Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vol 5. &lt;a href=&#34;https://cehs-research.github.io/eBook_multilevel/&#34;&gt;Correlation &amp;amp; Regression&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;YOUTUBE: &lt;strong&gt;Sarah Schawrtz Stats&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNrL9MWG-nOuuuqR2Vkpo86p&#34;&gt;In-class Recordings, Fall 2020&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&#34;&gt;Out-of-Class Recordings&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNqkk4rDa7dvyDa6sBpGzTLq&#34;&gt;External Supplements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DOWNLOADS:&lt;/p&gt;
+&lt;p&gt;OBJECTIVES:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Methodological issues in the design of clustered and longitudinal studies
+&lt;ul&gt;
+&lt;li&gt;A. Characterize different types of sampling and how they determine analysis type and interpretation&lt;/li&gt;
+&lt;li&gt;B. Evaluate sample size and power in longitudinal designs&lt;/li&gt;
+&lt;li&gt;C. Understand the effect of attrition/missing data on results&lt;/li&gt;
+&lt;li&gt;D. Know what is meant by clustering and how clustered differ from non-clustered analyses&lt;/li&gt;
+&lt;li&gt;E. Differentiate between long and short data formats&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Generalized linear models: Logistic, Poisson, and multinomial regression (GLM)
+&lt;ul&gt;
+&lt;li&gt;A. Understand the mathematical fundamentals&lt;/li&gt;
+&lt;li&gt;B. Know how to properly conduct analyses using R&lt;/li&gt;
+&lt;li&gt;C. Competently interpret results&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Mixed-effects or multi-level longitudinal models (MLM, HLM, ect.)
+&lt;ul&gt;
+&lt;li&gt;A. In the context of these methods, define and know how to specify:
+&lt;ul&gt;
+&lt;li&gt;&lt;ol style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Fixed effects&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;2&#34; style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Random effects&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;3&#34; style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Variance components&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;4&#34; style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Time-varying covariates&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;22&#34; style=&#34;list-style-type: lower-alpha&#34;&gt;
+&lt;li&gt;Time-invariant covariates&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;6&#34; style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Polynomial covariates&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;7&#34; style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Dummy variables&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&#34;8&#34; style=&#34;list-style-type: lower-roman&#34;&gt;
+&lt;li&gt;Level 1, 2, etc. in multilevel models&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;B. Learn how to use/program R to conduct clustered or longitudinal analyses&lt;/li&gt;
+&lt;li&gt;C. Interpret output from statistical software in terms of change over time, group differences, individual differences, and change over time as a function of both group or individual differences&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Generalized estimating equations (GEE, marginal models)
+&lt;ul&gt;
+&lt;li&gt;A. Differentiate between population averaged and subject-specific models&lt;/li&gt;
+&lt;li&gt;B. Conduct analyses with R&lt;/li&gt;
+&lt;li&gt;C. Know how to interpret results at the population-averaged or individual level&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Competency in use of statistical software (e.g., R and R Studio)
+&lt;ul&gt;
+&lt;li&gt;A. Data manipulation&lt;/li&gt;
+&lt;li&gt;B. Data analysis&lt;/li&gt;
+&lt;li&gt;C. Interpreting output&lt;/li&gt;
+&lt;li&gt;D. Graphics&lt;/li&gt;
+&lt;li&gt;E. R Markdown Reports (Knit to html, pdf, and word)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Develop skills in reporting of statistical results (APA format)
+&lt;ul&gt;
+&lt;li&gt;A. Master the basics of communicating results of clustered or longitudinal research&lt;/li&gt;
+&lt;li&gt;B. Learn how to create tables and figures for presentations&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Statistical Foundations</title>
       <link>/teaching/foundation/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>

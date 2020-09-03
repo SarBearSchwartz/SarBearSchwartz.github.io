@@ -8,10 +8,12 @@ output: html_notebook
 ```{r}
 library(tidyverse)
 library(hexSticker)
+library(lme4)
+library(sjPlot)
 ```
 
 
-
+# Foundations
 
 ```{r, fig.width=4, fig.height=4}
 p <- PlantGrowth %>% 
@@ -50,6 +52,75 @@ p %>%
 ```
 
 
+# Multilevel
+
+
+
+```{r}
+set.seed(124)  # this makes the example exactly reproducible
+
+n <- 12
+m <- 3
+beta   <- 0.4
+
+# errors <- -1*errors   # this makes them left skewed
+# errors <- errors - 1  # this centers the error distribution on 0
+# 
+
+data <- data.frame(group = rep(1:m, each = n),
+                   min = rep(c(1, 0, 1.5), each = n),
+                   max = rep(c(4, 5, 4), each = n),
+                   errors = rlnorm(n*m, meanlog=0, sdlog=.7)) %>% 
+  dplyr::mutate(x   = runif(n*m, min = min, max = max)) %>% 
+  dplyr::mutate(int = rep(c(-1, 0, 1.5), each = n)) %>% 
+  dplyr::mutate(beta = rep(c(-.25, .5, .75), each = n)) %>% 
+  dplyr::mutate(y      = int + x*beta + errors) 
+
+data
+```
+
+```{r, fig.width=4, fig.height=4}
+
+
+m <- data %>% 
+  dplyr::mutate(group = factor(group)) %>%
+  ggplot() +
+  aes(x = x,
+      y = y,
+      group = group) +
+  geom_point(aes(color = group),
+            alpha = .4) +
+  geom_smooth(aes(color = group),
+              method = "lm",
+              formula = y ~ x,
+              se = FALSE)
+
+m + theme_dark()
+```
+
+
+
+```{r}
+m <- m +
+  theme_void() +
+  theme_transparent() +
+  theme(legend.position = "none")
+
+m %>% 
+  hexSticker::sticker(package  = "Multilevel Models", 
+                      p_size   = 15, 
+                      p_color  = "#FFFFFF",
+                      url      = "www.SarahSchwartzStats.com",
+                      u_size   = 5,
+                      u_color  = "#FFFFFF",
+                      s_x      = 1, 
+                      s_y      = .75, 
+                      s_width  = 1.3, 
+                      s_height = .9,
+                      h_fill   = "#0F2439",
+                      h_color  = "#8A8D8F",
+                      filename = "hex/hex_7650.png")
+```
 
 # Encyclopedia
 

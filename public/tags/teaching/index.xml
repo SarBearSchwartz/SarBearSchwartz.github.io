@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Multilevel and Marginal Modeling</title>
+      <link>/teaching/multilevel/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/multilevel/</guid>
+      <description>Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Heiarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).</description>
+    </item>
+    
+    <item>
       <title>Statistical Foundations</title>
       <link>/teaching/foundation/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
