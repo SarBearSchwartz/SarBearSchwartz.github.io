@@ -49,11 +49,11 @@ This is a lecture and applied skills course and students will be expected to dem
 
 ## Resources
 
-TEXTBOOKS: 
+REQUIRED TEXTBOOKS: 
 
 1. **Multilevel Analysis: Techniques and Applications**, 3rd edition (2018), by *Joop J. Hox, Mirjam Moerbeek, and Rens van de Schoot* 
 
-* USU library: [Free, with USU login](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/detail.action?docID=5046900)    
+* USU library: [Free, with USU login](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=5046900)    
 * Amazon: [purchase, new or used](https://www.amazon.com/Multilevel-Analysis-Quantitative-Methodology-Joop/dp/1138121363/ref=sr_1_1?dchild=1&keywords=*Multilevel+Analysis%3A+Techniques+and+Applications&qid=1599166381&sr=8-1)    
     
 2. **Publication Manual of the APA: The Official Guide to APA Style**, 7th edition (2020)
@@ -61,25 +61,24 @@ TEXTBOOKS:
 * Amazon: [purchase new](https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&me=&qid=1599166844)
     
 
-EXAMPLES: **Encyclopedia for Quantitative Methods in R **   
+EXAMPLE EBOOK: **Encyclopedia for Quantitative Methods in R **  [LINK](https://cehs-research.github.io/eBooks/) 
 
+Volumes
 * Vol 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
 * Vol 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
 * Vol 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
 * Vol 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)  
 * Vol 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
-* Vol 5. [Correlation & Regression](https://cehs-research.github.io/eBook_multilevel/)
+* Vol 5. [Multilevel & Marginal Modeling](https://cehs-research.github.io/eBook_multilevel/)
     
     
-YOUTUBE: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
+YOUTUBE Channel: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
 
-* [In-class Recordings, Fall 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNrL9MWG-nOuuuqR2Vkpo86p)    
-* [Out-of-Class Recordings](https://www.youtube.com/playlist?list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1)    
+Playlists
+* In-class Recordings: [Fall 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNrL9MWG-nOuuuqR2Vkpo86p)    
+* Out-of-Class Recordings: [Fall 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1)    
 * [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNqkk4rDa7dvyDa6sBpGzTLq)    
     
-DOWNLOADS:      
-
-
 
 
 OBJECTIVES:

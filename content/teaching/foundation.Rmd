@@ -41,14 +41,22 @@ Students will also learn how to:
 
 ## Resources
 
-TEXTBOOK: **Explaining Psychological Statistics**, 4th edition, by Barry Cohen    
+REQUIRED TEXTBOOKS: 
 
-* USU library: [Free, with USU login](http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658)    
+1. **Explaining Psychological Statistics**, 4th edition, by *Barry Cohen*    
+
+* USU library: [Free, with USU login](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1563061)    
 * Amazon: [purchase, new or used](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)    
+  
     
+2. **Publication Manual of the APA: The Official Guide to APA Style**, 7th edition (2020)
 
-EXAMPLES: **Encyclopedia for Quantitative Methods in R **   
+* Amazon: [purchase new](https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&me=&qid=1599166844)
+        
 
+EXAMPLES EBOOK: **Encyclopedia for Quantitative Methods in R **   [LINK](https://cehs-research.github.io/eBooks/)
+
+Volumes
 * Vol 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
 * Vol 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
 * Vol 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
@@ -56,22 +64,21 @@ EXAMPLES: **Encyclopedia for Quantitative Methods in R **
 * Vol 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
     
     
-YOUTUBE: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
+YOUTUBE CHANNEL: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
 
-* [In-class Recordings, Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz)    
-* [Out-of-Class Recordings](https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG)    
-* [Homework Helps](https://www.youtube.com/playlist?list=PLtAksNetLqNpF9LFkhxCTNcojQOP0G9ep)    
+Palylists
+* In-class Recordings: [Spring 2021](https://www.youtube.com/playlist?list=PLtAksNetLqNpQYeGZ_TE2Irx24_5KlUeG), [Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz)
+* Out-of-Class Recordings: [Spring 2021](https://www.youtube.com/playlist?list=PLtAksNetLqNp5aNQuZmJoVzm3u78w5O1h), [Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG) 
 * [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2)    
     
-Downloadables:      
+DOWNLOADS:      
 
 * Ihno's Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.xls), [data dictionary](https://cehs-research.github.io/PSY-6600_public/Data/Appendix C Ihno Data Key.pdf)
 
 * [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf)     
 * [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf)     
 
-
-* [PPTX: Example Chap 14. 2 way ANOVA with Interaction Contrast](https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorialExample.pptx)
+Note: R Skeleton downloads (Rmd files) will be missing the YAML header
 
 
 | Chapters | Topics | Slides | Worksheets | R Skeleton |
@@ -98,3 +105,4 @@ Downloadables:
 | 19-20 | The Binomial Distribution & Chi-Squared Tests | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/Ch19-20_categorical.pptx)| [HW 19-20](https://cehs-research.github.io/PSY-6600_public/assignments/hw1920 worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/hw1920 assignment SKELETON R.Rmd) |
 
 
+* [PPTX: Example Chap 14. 2 way ANOVA with Interaction Contrast](https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorialExample.pptx)

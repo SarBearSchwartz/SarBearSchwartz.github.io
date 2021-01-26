@@ -16,7 +16,10 @@
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/teaching/multilevel/</guid>
-      <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
+      <description>&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;!-- Note: image relative to `static/img/` folder  --&gt;
 &lt;p&gt;Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Heiarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).&lt;/p&gt;
 &lt;div id=&#34;focus&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Focus&lt;/h3&gt;
@@ -47,12 +50,12 @@ longitudinal&lt;/strong&gt; data and&lt;/p&gt;&lt;/li&gt;
 &lt;/div&gt;
 &lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;TEXTBOOKS:&lt;/p&gt;
+&lt;p&gt;REQUIRED TEXTBOOKS:&lt;/p&gt;
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;Multilevel Analysis: Techniques and Applications&lt;/strong&gt;, 3rd edition (2018), by &lt;em&gt;Joop J. Hox, Mirjam Moerbeek, and Rens van de Schoot&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;USU library: &lt;a href=&#34;https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/detail.action?docID=5046900&#34;&gt;Free, with USU login&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;USU library: &lt;a href=&#34;https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=5046900&#34;&gt;Free, with USU login&lt;/a&gt;&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Multilevel-Analysis-Quantitative-Methodology-Joop/dp/1138121363/ref=sr_1_1?dchild=1&amp;amp;keywords=*Multilevel+Analysis%3A+Techniques+and+Applications&amp;amp;qid=1599166381&amp;amp;sr=8-1&#34;&gt;purchase, new or used&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -62,7 +65,7 @@ longitudinal&lt;/strong&gt; data and&lt;/p&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&amp;amp;me=&amp;amp;qid=1599166844&#34;&gt;purchase new&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;EXAMPLES: &lt;strong&gt;Encyclopedia for Quantitative Methods in R &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;EXAMPLES: &lt;strong&gt;Encyclopedia for Quantitative Methods in R &lt;/strong&gt; &lt;a href=&#34;https://cehs-research.github.io/eBooks/&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vol 0. &lt;a href=&#34;https://cehs-research.github.io/eBook_install&#34;&gt;Setting up Your Computer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Vol 1. &lt;a href=&#34;https://cehs-research.github.io/eBook_wrangle/&#34;&gt;Wrangling Your Data&lt;/a&gt;&lt;/li&gt;
@@ -71,13 +74,13 @@ longitudinal&lt;/strong&gt; data and&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;Vol 3. &lt;a href=&#34;https://cehs-research.github.io/eBook_ANOVA/&#34;&gt;Testing Mean Differences&lt;/a&gt;&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;Vol 4. &lt;a href=&#34;https://cehs-research.github.io/eBook_regression/&#34;&gt;Correlation &amp;amp; Regression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Vol 5. &lt;a href=&#34;https://cehs-research.github.io/eBook_multilevel/&#34;&gt;Correlation &amp;amp; Regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vol 5. &lt;a href=&#34;https://cehs-research.github.io/eBook_multilevel/&#34;&gt;Multilevel &amp;amp; Marginal Modeling&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;YOUTUBE: &lt;strong&gt;Sarah Schawrtz Stats&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNrL9MWG-nOuuuqR2Vkpo86p&#34;&gt;In-class Recordings, Fall 2020&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;In-class Recordings: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNrL9MWG-nOuuuqR2Vkpo86p&#34;&gt;Fall 2020&lt;/a&gt;&lt;br /&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&#34;&gt;Out-of-Class Recordings&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Out-of-Class Recordings: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&#34;&gt;Fall 2020&lt;/a&gt;&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNqkk4rDa7dvyDa6sBpGzTLq&#34;&gt;External Supplements&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -160,7 +163,10 @@ longitudinal&lt;/strong&gt; data and&lt;/p&gt;&lt;/li&gt;
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/teaching/foundation/</guid>
-      <description>&lt;!-- Note: image relative to `static/img/` folder  --&gt;
+      <description>&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;!-- Note: image relative to `static/img/` folder  --&gt;
 &lt;p&gt;Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note: This course was historically called “Research Design and
@@ -185,13 +191,22 @@ Analysis I”&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;TEXTBOOK: &lt;strong&gt;Explaining Psychological Statistics&lt;/strong&gt;, 4th edition, by Barry Cohen&lt;/p&gt;
+&lt;p&gt;REQUIRED TEXTBOOKS:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Explaining Psychological Statistics&lt;/strong&gt;, 4th edition, by &lt;em&gt;Barry Cohen&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;USU library: &lt;a href=&#34;http://site.ebrary.com/lib/usulibraries/reader.action?docID=10809658&#34;&gt;Free, with USU login&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;USU library: &lt;a href=&#34;https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1563061&#34;&gt;Free, with USU login&lt;/a&gt;&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&amp;amp;keywords=explaining+psychological+statistics&amp;amp;qid=1579810220&amp;amp;sprefix=explaining+psych%2Caps%2C217&amp;amp;sr=8-1&#34;&gt;purchase, new or used&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;EXAMPLES: &lt;strong&gt;Encyclopedia for Quantitative Methods in R &lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Publication Manual of the APA: The Official Guide to APA Style&lt;/strong&gt;, 7th edition (2020)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&amp;amp;me=&amp;amp;qid=1599166844&#34;&gt;purchase new&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EXAMPLES: &lt;strong&gt;Encyclopedia for Quantitative Methods in R &lt;/strong&gt; &lt;a href=&#34;https://cehs-research.github.io/eBooks/&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vol 0. &lt;a href=&#34;https://cehs-research.github.io/eBook_install&#34;&gt;Setting up Your Computer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Vol 1. &lt;a href=&#34;https://cehs-research.github.io/eBook_wrangle/&#34;&gt;Wrangling Your Data&lt;/a&gt;&lt;/li&gt;
@@ -203,12 +218,8 @@ Analysis I”&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;YOUTUBE: &lt;strong&gt;Sarah Schawrtz Stats&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz&#34;&gt;In-class Recordings, Spring 2020&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG&#34;&gt;Out-of-Class Recordings&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpF9LFkhxCTNcojQOP0G9ep&#34;&gt;Homework Helps&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
+&lt;li&gt;In-class Recordings: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpQYeGZ_TE2Irx24_5KlUeG&#34;&gt;Spring 2021&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz&#34;&gt;Spring 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Out-of-Class Recordings: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNp5aNQuZmJoVzm3u78w5O1h&#34;&gt;Spring 2021&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG&#34;&gt;Spring 2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2&#34;&gt;External Supplements&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Downloadables:&lt;/p&gt;
@@ -217,8 +228,8 @@ Analysis I”&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/psy6600%20formula%20sheet%20(filled%20in).pdf&#34;&gt;Formula Sheet&lt;/a&gt;&lt;br /&gt;
 &lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/psy6600%20statistical%20tables.pdf&#34;&gt;Look-up Tables&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorialExample.pptx&#34;&gt;PPTX: Example Chap 14. 2 way ANOVA with Interaction Contrast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Note: R Skeleton downloads (Rmd files) will be missing the YAML header&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
@@ -246,8 +257,8 @@ Analysis I”&lt;/p&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td&gt;Intro to R&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_intro_r.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Getting Started with R&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_getting_started_r.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -372,6 +383,9 @@ Analysis I”&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorialExample.pptx&#34;&gt;PPTX: Example Chap 14. 2 way ANOVA with Interaction Contrast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 </description>
     </item>
