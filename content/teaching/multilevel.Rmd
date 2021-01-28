@@ -3,7 +3,7 @@ date: "2020-01-14"
 title: "Multilevel and Marginal Modeling"
 summary: "USU graduate course PSY 7650"
 tags: ["teaching"]
-image_preview: "hex/hex_7650.PNG"
+image_preview: "hex/hex_7650.png"
 header:
   image: "header_multilevel.png"
 ---
@@ -13,7 +13,7 @@ header:
 
 
 
-Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.  This includes Multilevel Modeling (MLM), which also goes by such names as Heiarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).
+Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.  This includes Multilevel Modeling (MLM), which also goes by such names as Hierarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).
 
 
 
@@ -21,8 +21,7 @@ Multilevel Modeling is designed to provide graduate students with a practical, a
 
 Mastery of the material covered in this course will enable students to develop the skills necessary to conduct well-planned behavioral and educational research involving clustered or longitudinal designs, and thoughtful statistical analyses of the resulting data. Knowledge gained in this course will build upon concepts learned in prior research methodology and data analysis courses. Students will learn how to differentiate and appropriately select the best statistical methods for use in various clustered or longitudinal research designs. 
 
-As the theoretical is secondary to the applied approach to data analysis in this course, students will learn how
-to:
+As the theoretical is secondary to the applied approach to data analysis in this course, students will learn how to:
 
 1. Use the `R` statistical programming environment *(via the `R Studio` IDE)* to analyze **clustered and
 longitudinal** data and
@@ -62,19 +61,19 @@ REQUIRED TEXTBOOKS:
     
 
 EXAMPLE EBOOK: **Encyclopedia for Quantitative Methods in R **  [LINK](https://cehs-research.github.io/eBooks/) 
+    
 
-Volumes
-* Vol 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
-* Vol 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
-* Vol 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
-* Vol 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)  
-* Vol 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
-* Vol 5. [Multilevel & Marginal Modeling](https://cehs-research.github.io/eBook_multilevel/)
+* Volume 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
+* Volume 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
+* Volume 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
+* Volume 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)  
+* Volume 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
+* Volume 5. [Multilevel & Marginal Modeling](https://cehs-research.github.io/eBook_multilevel/)
     
     
 YOUTUBE Channel: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
+    
 
-Playlists
 * In-class Recordings: [Fall 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNrL9MWG-nOuuuqR2Vkpo86p)    
 * Out-of-Class Recordings: [Fall 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1)    
 * [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNqkk4rDa7dvyDa6sBpGzTLq)    

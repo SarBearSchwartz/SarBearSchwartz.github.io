@@ -18,18 +18,7 @@
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/teaching/multilevel/</guid>
-      <description>Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Heiarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).</description>
-    </item>
-    
-    <item>
-      <title>Statistical Foundations</title>
-      <link>/teaching/foundation/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/foundation/</guid>
-      <description>Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.
-Note: This course was historically called “Research Design andAnalysis I”
-FocusThis course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses.</description>
+      <description>Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Hierarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).</description>
     </item>
     
     <item>
@@ -38,7 +27,7 @@
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/ebooks/</guid>
-      <description></description>
+      <description></description>
     </item>
     
     <item>
@@ -47,7 +36,7 @@
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/teaching/ssworkshops/</guid>
-      <description></description>
+      <description></description>
     </item>
     
   </channel>

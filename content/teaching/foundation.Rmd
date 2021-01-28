@@ -3,7 +3,7 @@ date: "2020-01-14"
 title: "Statistical Foundations"
 summary: "USU graduate course EDUC/PSY 6600"
 tags: ["teaching"]
-image_preview: "hex/hex_6600.PNG"
+image_preview: "hex/hex_6600.png"
 header:
   image: "header_foundation.png"
 ---
@@ -33,9 +33,11 @@ Students will also learn how to:
 
 ### Syllabus
 
-* [Summer 2020 - Dr. Schwartz (Mon/Wed 1:30-4:45 pm)](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2020.pdf)
+* [Spring 2021 - Mon/Wed 4:30-5:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2021.pdf)
 
-* [Spring 2020 - Dr. Schwartz (Mon/Wed 4:30-5:45 pm)](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
+* [Summer 2020 - Mon/Wed 1:30-4:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2020.pdf)
+
+* [Spring 2020 - Mon/Wed 4:30-5:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2020.pdf)
 
 -----
 
@@ -56,17 +58,18 @@ REQUIRED TEXTBOOKS:
 
 EXAMPLES EBOOK: **Encyclopedia for Quantitative Methods in R **   [LINK](https://cehs-research.github.io/eBooks/)
 
-Volumes
-* Vol 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
-* Vol 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
-* Vol 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
-* Vol 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)  
-* Vol 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
+    
+
+* Volume 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install) 
+* Volume 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
+* Volume 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)    
+* Volume 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)  
+* Volume 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
     
     
 YOUTUBE CHANNEL: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
+    
 
-Palylists
 * In-class Recordings: [Spring 2021](https://www.youtube.com/playlist?list=PLtAksNetLqNpQYeGZ_TE2Irx24_5KlUeG), [Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz)
 * Out-of-Class Recordings: [Spring 2021](https://www.youtube.com/playlist?list=PLtAksNetLqNp5aNQuZmJoVzm3u78w5O1h), [Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG) 
 * [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2)    
@@ -84,7 +87,7 @@ Note: R Skeleton downloads (Rmd files) will be missing the YAML header
 | Chapters | Topics | Slides | Worksheets | R Skeleton |
 |:-------:| ------- |:------:|:------:|:------:|
 |    | Cohen's Textbook, 4th edition |  [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx) | | |
-|    | APA Format Pertaining to Quantitative Analysis | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_6th.pptx) | |
+|    | APA 7th Ed. Pertaining to Quantitative Analysis | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_7th.pptx) | |
 |    | Getting Started with R | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch0_getting_started_r.html) | | |
 | 1  | Variables, Scales, Rounding, & Summation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html)  |  [HW 1](https://cehs-research.github.io/PSY-6600_public/assignments/hw1_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 1 Assignment R Skeleton.Rmd) |
 | 2  | Exploration of Data with Plots | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html)  |  [HW 2](https://cehs-research.github.io/PSY-6600_public/assignments/hw2_worksheet.pdf)| [RMD](https://cehs-research.github.io/PSY-6600_public/assignments/Chapter 2 Assignment R Skeleton.Rmd) |
