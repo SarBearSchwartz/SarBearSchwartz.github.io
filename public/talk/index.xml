@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Missing Data and Multiple Imputation</title>
+      <link>/talk/workshop_missingdata_2021spring/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/workshop_missingdata_2021spring/</guid>
+      <description>What is the difference between MCAR, MAR, MNAR? We will cover the difference between these three, as well as how to distinguish (test) which type describes the underlying mechanism that is likely responsible for the generation of missingness in specific data, as well what this distinction implies for options forward.
+Historically, simplistic and sub-optimal methods have been used for dealing with missing data: complete case analysis, single value imputation (mean, regression, hot decking, ect.</description>
+    </item>
+    
+    <item>
       <title>Reproducible Workflow: Intro to SPSS via Syntax</title>
       <link>/talk/workshop-spsssyntax_2018feb/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>

@@ -11,6 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Missing Data and Multiple Imputation</title>
+      <link>/talk/workshop_missingdata_2021spring/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/workshop_missingdata_2021spring/</guid>
+      <description>&lt;p&gt;What is the difference between MCAR, MAR, MNAR?  We will cover the difference between these three, as well as how to distinguish (test) which type describes the underlying mechanism that is likely responsible for the generation of missingness in specific data, as well what this distinction implies for options forward.&lt;/p&gt;
+
+&lt;p&gt;Historically, simplistic and sub-optimal methods have been used for dealing with missing data: complete case analysis, single value imputation (mean, regression, hot decking, ect.).  No matter the method used to deal with missing data, similar reporting of the extent of missingness and proposed mechanism is always required.&lt;/p&gt;
+
+&lt;p&gt;Multiple imputations (MI) is conducted in 3 stages: imputation, analysis, and pooling.  We will focus on Multivariate Imputation by Chained Equations (MICE), an MCMC algorithm for imputation, and Rubin’s rules for pooling.  We will apply this process for various inferential techniques, including t-tests, ANOVA-based methods, and regression analysis.&lt;/p&gt;
+
+&lt;p&gt;Application of MI will be expanded to more complex situations: planned missing designs and multilevel/hierarchical sampling structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multilevel and Marginal Modeling</title>
       <link>/teaching/multilevel/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
@@ -151,6 +167,240 @@ longitudinal&lt;/strong&gt; data and&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;B. Learn how to create tables and figures for presentations&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Foundations</title>
+      <link>/teaching/foundation/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/foundation/</guid>
+      <description>&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;!-- Note: image relative to `static/img/` folder  --&gt;
+&lt;p&gt;Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: This course was historically called “Research Design and
+Analysis I”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div id=&#34;focus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Focus&lt;/h3&gt;
+&lt;p&gt;This course will mostly focus on &lt;strong&gt;basic statistical techniques&lt;/strong&gt; and several forms of the &lt;strong&gt;ANOVA model&lt;/strong&gt;, which can be used by themselves or serve as building blocks for more advanced techniques in other courses.&lt;/p&gt;
+&lt;p&gt;Students will also learn how to:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Use the &lt;code&gt;R&lt;/code&gt; statistical programming environment &lt;em&gt;(via the &lt;code&gt;R Studio&lt;/code&gt; IDE)&lt;/em&gt; to analyze data and&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Interpret and communicate the results of analyses &lt;em&gt;(including creating reproducible research reports with R Markdown)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;syllabus&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Syllabus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2021.pdf&#34;&gt;Spring 2021 - Mon/Wed 4:30-5:45 pm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2020.pdf&#34;&gt;Summer 2020 - Mon/Wed 1:30-4:45 pm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2020.pdf&#34;&gt;Spring 2020 - Mon/Wed 4:30-5:45 pm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;REQUIRED TEXTBOOKS:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Explaining Psychological Statistics&lt;/strong&gt;, 4th edition, by &lt;em&gt;Barry Cohen&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;USU library: &lt;a href=&#34;https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/reader.action?docID=1563061&#34;&gt;Free, with USU login&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&amp;amp;keywords=explaining+psychological+statistics&amp;amp;qid=1579810220&amp;amp;sprefix=explaining+psych%2Caps%2C217&amp;amp;sr=8-1&#34;&gt;purchase, new or used&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Publication Manual of the APA: The Official Guide to APA Style&lt;/strong&gt;, 7th edition (2020)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon: &lt;a href=&#34;https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&amp;amp;me=&amp;amp;qid=1599166844&#34;&gt;purchase new&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;EXAMPLES EBOOK: &lt;strong&gt;Encyclopedia for Quantitative Methods in R &lt;/strong&gt; &lt;a href=&#34;https://cehs-research.github.io/eBooks/&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Volume 0. &lt;a href=&#34;https://cehs-research.github.io/eBook_install&#34;&gt;Setting up Your Computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Volume 1. &lt;a href=&#34;https://cehs-research.github.io/eBook_wrangle/&#34;&gt;Wrangling Your Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Volume 2. &lt;a href=&#34;https://cehs-research.github.io/eBook_explore/&#34;&gt;Exploring Your Data&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Volume 3. &lt;a href=&#34;https://cehs-research.github.io/eBook_ANOVA/&#34;&gt;Testing Mean Differences&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Volume 4. &lt;a href=&#34;https://cehs-research.github.io/eBook_regression/&#34;&gt;Correlation &amp;amp; Regression&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;YOUTUBE CHANNEL: &lt;strong&gt;Sarah Schawrtz Stats&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA&#34;&gt;LINK&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In-class Recordings: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpQYeGZ_TE2Irx24_5KlUeG&#34;&gt;Spring 2021&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz&#34;&gt;Spring 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Out-of-Class Recordings: &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNp5aNQuZmJoVzm3u78w5O1h&#34;&gt;Spring 2021&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG&#34;&gt;Spring 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2&#34;&gt;External Supplements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DOWNLOADS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ihno’s Dataset: &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.sav&#34;&gt;SPSS&lt;/a&gt; or &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.xls&#34;&gt;Excel&lt;/a&gt;, &lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/Data/Appendix%20C%20Ihno%20Data%20Key.pdf&#34;&gt;data dictionary&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/psy6600%20formula%20sheet%20(filled%20in).pdf&#34;&gt;Formula Sheet&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/psy6600%20statistical%20tables.pdf&#34;&gt;Look-up Tables&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: R Skeleton downloads (Rmd files) will be missing the YAML header&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;center&#34;&gt;Chapters&lt;/th&gt;
+&lt;th&gt;Topics&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Slides&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Worksheets&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;R Skeleton&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td&gt;Cohen’s Textbook, 4th edition&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_cohen_textbook_4ed.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td&gt;APA 7th Ed. Pertaining to Quantitative Analysis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_apa_7th.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td&gt;Getting Started with R&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch0_getting_started_r.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;Variables, Scales, Rounding, &amp;amp; Summation&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch1_intro_stat.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw1_worksheet.pdf&#34;&gt;HW 1&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%201%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;Exploration of Data with Plots&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch2_plots.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw2_worksheet.pdf&#34;&gt;HW 2&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%202%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;Summarizing Data with Descriptive Statistics&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch3_center_spread.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw3_worksheet.pdf&#34;&gt;HW 3&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%203%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;Standardized Scores &amp;amp; The Normal Distribution&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch4_z_scores.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw4_worksheet.pdf&#34;&gt;HW 4&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%204%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;Intro to Hypothesis Testing: 1 Sample z-test&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf&#34;&gt;HW 5&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%205%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;Confidence Interval Estimation: The t Distribution&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf&#34;&gt;HW 6&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%206%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;Independent Samples t-Test for Means&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf&#34;&gt;HW 7&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%207%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;Statistical Power &amp;amp; Effect Size&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf&#34;&gt;HW 8&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;NA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;Linear Correlation&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf&#34;&gt;HW 9&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%209%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;10&lt;/td&gt;
+&lt;td&gt;Linear Regression&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf&#34;&gt;HW 10&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2010%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;11&lt;/td&gt;
+&lt;td&gt;Matched t-Test&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch11_matched.html&#34;&gt;HTML&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf&#34;&gt;HW 11&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2011%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;12&lt;/td&gt;
+&lt;td&gt;1-way Independent Groups ANOVA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/ch12_oneANOVA.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw12_worksheet.pdf&#34;&gt;HW 12&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2012%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;13&lt;/td&gt;
+&lt;td&gt;Multiple Comparisons&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch13_multcomp.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw13_worksheet.pdf&#34;&gt;HW 13&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2013%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;14&lt;/td&gt;
+&lt;td&gt;2-way ANOVA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorial.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw14_worksheet.pdf&#34;&gt;HW 14&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2014%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;15&lt;/td&gt;
+&lt;td&gt;Repeated Measures ANOVA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch15_rmANOVA.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw15_worksheet.pdf&#34;&gt;HW 15&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2015%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;16&lt;/td&gt;
+&lt;td&gt;2-way Mixed Design ANOVA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch16_mixANOVA.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw16_worksheet.pdf&#34;&gt;HW 16&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/Chapter%2016%20Assignment%20R%20Skeleton.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;19-20&lt;/td&gt;
+&lt;td&gt;The Binomial Distribution &amp;amp; Chi-Squared Tests&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch19-20_categorical.pptx&#34;&gt;PPTX&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw1920%20worksheet.pdf&#34;&gt;HW 19-20&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/assignments/hw1920%20assignment%20SKELETON%20R.Rmd&#34;&gt;RMD&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cehs-research.github.io/PSY-6600_public/slides/Ch14_factorialExample.pptx&#34;&gt;PPTX: Example Chap 14. 2 way ANOVA with Interaction Contrast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 </description>
     </item>
