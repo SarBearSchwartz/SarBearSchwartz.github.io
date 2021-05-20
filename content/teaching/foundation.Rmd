@@ -13,7 +13,7 @@ header:
 
 
 
-Statistical Foundations is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. 
+**"Statistical Foundations"** is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. 
 
 
 > Note: This course was historically called "Research Design and
@@ -33,7 +33,9 @@ Students will also learn how to:
 
 ### Syllabus
 
-* [Spring 2021 - Mon/Wed 4:30-5:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2021.pdf)
+* [Summer 2021 - Mon/Wed noon-2:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2021.pdf)
+
+* [Spring 2021 - Mon/Wed 4:30-5:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Spr2021.pdf)
 
 * [Summer 2020 - Mon/Wed 1:30-4:45 pm](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY 6600 Syllabus Sum2020.pdf)
 
@@ -67,13 +69,10 @@ EXAMPLES EBOOK: **Encyclopedia for Quantitative Methods in R **   [LINK](https:/
 * Volume 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
     
     
-YOUTUBE CHANNEL: **Sarah Schawrtz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
+YOUTUBE CHANNEL: **Sarah Schwartz Stats** [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)        
     
 
-* In-class Recordings: [Spring 2021](https://www.youtube.com/playlist?list=PLtAksNetLqNpQYeGZ_TE2Irx24_5KlUeG), [Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNomhHOTNxzqJMSHFvOO1tHz)
-* Out-of-Class Recordings: [Spring 2021](https://www.youtube.com/playlist?list=PLtAksNetLqNp5aNQuZmJoVzm3u78w5O1h), [Spring 2020](https://www.youtube.com/playlist?list=PLtAksNetLqNoh7t3iiTYzhDtkojPpRQdG) 
-* [External Supplements](https://www.youtube.com/playlist?list=PLtAksNetLqNpipLedQsj8YtxdwnhUXet2)    
-    
+
 DOWNLOADS:      
 
 * Ihno's Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.xls), [data dictionary](https://cehs-research.github.io/PSY-6600_public/Data/Appendix C Ihno Data Key.pdf)
@@ -81,7 +80,6 @@ DOWNLOADS:
 * [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600 formula sheet (filled in).pdf)     
 * [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600 statistical tables.pdf)     
 
-Note: R Skeleton downloads (Rmd files) will be missing the YAML header
 
 
 | Chapters | Topics | Slides | Worksheets |  -  |
@@ -96,7 +94,7 @@ Note: R Skeleton downloads (Rmd files) will be missing the YAML header
 | 5  | Intro to Hypothesis Testing: 1 Sample z-test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch5_inference.html)| [HW 5](https://cehs-research.github.io/PSY-6600_public/assignments/hw5_worksheet.pdf) | |
 | 6  | Confidence Interval Estimation: The t Distribution | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch6_ci_t-dist.html) | [HW 6](https://cehs-research.github.io/PSY-6600_public/assignments/hw6_worksheet.pdf) |  |
 | 7  | Independent Samples t-Test for Means |  [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch7_t-test_2means.html)| [HW 7](https://cehs-research.github.io/PSY-6600_public/assignments/hw7_worksheet.pdf) |  |
-| 8  | Statistical Power & Effect Size | [PPTX](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.pptx)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf) | NA |
+| 8  | Statistical Power & Effect Size | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch8_power.html)| [HW 8](https://cehs-research.github.io/PSY-6600_public/assignments/hw8_worksheet.pdf) | NA |
 | 9  | Linear Correlation | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch9_cor.html) | [HW 9](https://cehs-research.github.io/PSY-6600_public/assignments/hw9_worksheet.pdf) |   |
 | 10 | Linear Regression | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch10_reg.html) | [HW 10](https://cehs-research.github.io/PSY-6600_public/assignments/hw10_worksheet.pdf)|  |
 | 11 | Matched t-Test | [HTML](https://cehs-research.github.io/PSY-6600_public/slides/ch11_matched.html) | [HW 11](https://cehs-research.github.io/PSY-6600_public/assignments/hw11_worksheet.pdf)|  |
