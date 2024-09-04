@@ -203,3 +203,21 @@ hexSticker::sticker("hex/SarahSchwartz_headshot_picture.png",
 ```
 
 
+# Blank
+
+```{r}
+hexSticker::sticker("hex/superman_r_logo.PNG",
+                    s_x      = 1, 
+                    s_y      = .1, 
+                    s_width  = .01,
+                    package  ="", 
+                    p_size   = 12.75, 
+                    p_color  = "#FFFFFF",
+                    url      = "www.SarahSchwartzStats.com",
+                    u_size   = 5,
+                    u_color  = "#FFFFFF",
+                    h_fill   = "#0F2439",
+                    h_color  = "#8A8D8F",
+                    filename = "hex/hex_blank.png")
+```
+
