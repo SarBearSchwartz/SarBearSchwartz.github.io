@@ -182,6 +182,8 @@ hexSticker::sticker("hex/superman_r_logo.PNG",
 
 # Headshot
 
+Use Photoshop to crop photo to the correct shape
+
 ```{r}
 hexSticker::sticker("hex/SarahSchwartz_headshot_picture.png",
                     s_x      = .975, 
