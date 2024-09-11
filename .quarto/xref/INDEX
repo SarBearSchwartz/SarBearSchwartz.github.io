@@ -1,0 +1,38 @@
+{
+  "about.qmd": {
+    "about.html": "1e72eb47"
+  },
+  "index.qmd": {
+    "index.html": "0afdc0f2"
+  },
+  "Resources.qmd": {
+    "Resources.html": "a041a142"
+  },
+  "Examples.qmd": {
+    "Examples.html": "939d346e"
+  },
+  "r4research.qmd": {
+    "r4research.html": "a70f2ad1"
+  },
+  "foundation.qmd": {
+    "foundation.html": "f19e178a"
+  },
+  "regression.qmd": {
+    "regression.html": "28ce2355"
+  },
+  "mlm.qmd": {
+    "mlm.html": "24772975"
+  },
+  "encyclopedia_vol.qmd": {
+    "encyclopedia_vol.html": "e4807421"
+  },
+  "skeletons.qmd": {
+    "skeletons.html": "77532bd4"
+  },
+  "teaching.qmd": {
+    "teaching.html": "efccba7b"
+  },
+  "youtube.qmd": {
+    "youtube.html": "fa4302c5"
+  }
+}

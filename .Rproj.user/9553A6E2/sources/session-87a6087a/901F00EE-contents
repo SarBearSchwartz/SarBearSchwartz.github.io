@@ -1,0 +1,87 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  bread-crumbs: false
+  title: "Sarah Schwartz Stats"
+  description: "Transparent and Reproducible Research with R"
+  
+  navbar: 
+    background: "#288DC2"
+    left:  
+      - icon: github
+        href: https://github.com/sarbearschwartz
+      - text: "{{< ai orcid size=2em >}}"
+        href: https://orcid.org/0000-0001-9980-7493
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA
+      - text: "{{< ai google-scholar size=2em >}}"
+        href: https://scholar.google.com/citations?user=HMdHkLYAAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sarbearschwartz/
+      - text: "{{< ai osf size=2em >}}"
+        href: https://osf.io/3f87g
+    right: 
+      - text: "About"
+        href: about.qmd
+      - icon: envelope
+        href: mailto:sarah.schwartz@usu.edu
+  
+  sidebar:
+    background: "#c1c6ca"
+    logo: "images/USUAug820247069.jpg"
+    style: "docked"
+    search: true
+    pinned: true
+    align: center
+        
+
+    contents:
+      - text: "---"
+      - section: "TEACHING"
+        contents:
+          - href: teaching.qmd
+            text: "Overview"
+          - href: r4research.qmd
+            text: "Using R for Research"
+          - href: foundation.qmd
+            text: "Stat Foundations"
+          - href: regression.qmd
+            text: "Regression Analysis"
+          - href: mlm.qmd
+            text: "Multilevel Modeling"
+      - text: "---"      
+      - section: "eBOOKS"
+        contents:
+          - href: encyclopedia_vol.qmd
+            text: "Encyclopedia"
+      - text: "---"      
+      - section: "RESOURCES"
+        contents:
+          - href: youtube.qmd
+            text: "YouTube"
+          - href: skeletons.qmd
+            text: "Skeletons"      
+
+
+    
+  back-to-top-navigation: true
+  
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2024, Sarah E Schwartz"
+    background: "#D9E3E4"
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+    
+
+freeze: auto  
+
+editor: visual
+

@@ -1,0 +1,230 @@
+[
+  {
+    "objectID": "youtube.html",
+    "href": "youtube.html",
+    "title": "YouTube Channel",
+    "section": "",
+    "text": "Link\nSarah Schwartz Stats\n\n\n\n Back to top",
+    "crumbs": [
+      "RESOURCES",
+      "YouTube"
+    ]
+  },
+  {
+    "objectID": "skeletons.html",
+    "href": "skeletons.html",
+    "title": "In-class Examples",
+    "section": "",
+    "text": "In-class Examples\n\nSupplemental MaterialAppendix\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "RESOURCES",
+      "Skeletons"
+    ]
+  },
+  {
+    "objectID": "r4research.html",
+    "href": "r4research.html",
+    "title": "Using R for Research",
+    "section": "",
+    "text": "Wednesdays 1:30pm - DE 109",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah E Schwartz",
+    "section": "",
+    "text": "Current\nResearch Assistant Professor, Psychology Department\nDirector, Statistical Consulting Studio\nEmma Eccles Jones College of Education and Human Services\nUtah State University\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "encyclopedia_vol.html",
+    "href": "encyclopedia_vol.html",
+    "title": "Volumn Links",
+    "section": "",
+    "text": "Volumn Links\n\nSoftwareWranglingExploreANOVARegressionMultilevel\n\n\nVol. 0 - Setting up your computer\n\nInstalling software (R, RStudio, packages, TeX)\nWorkspace orientation\nNotebook workflow\nPeriodic updating\n\n\n\nVol. 1 - Data Management\n\nImporting data files (SPSS, Excel, CSV, ect.)\nSub-setting (observations and variables)\nCreating new variables\nSaving revised data\n\n\n\nVol. 2 Exploratroy Data Analysis\n\nComputing and tabulating summary statistics (M/SD, count/%)\nCreating descriptive visualizations of distributions (boxplots, histograms) and relationships (scatter plots)\n\n\n\nVol. 3 Testing Mean Differences\n\nt-tests (independent groups, paired observations)\nANOVA (independent or between subjects, 1-way, 2-way)\nRM ANOVA (repeated meausres, between subjects)\nMixed ANOVA (both independent and between subjects)\nVisualizations (marginal means to prob interactions)\nPost hoc tests (multiple corrections, contrast statements)\n\n\n\nVol. 4 Multiple Linear Regression & GLM\n\nCalculating and visualizating correlation\nMultiple regression models (fitting, tabulating results, graphicaly probing interactions)\nGeneralizing the distribution (GLM: logistic regression, poisson regression, ect.)\nModeration and Mediation\nAverage Marginal Effects\n\n\n\nVol. 5 Multilevel and Marginal Models\n\nModeling clustered/hierarchical or longitudinal/repeated observations with multilevel models (MLM, LMM, GLMM, HLM), including:\nComputing ICCs\nModel fitting\nTabulating results\nVisualizings (marginal means to prob interactions)\nGeneralized Estimating Equations (GEE)\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "eBOOKS",
+      "Encyclopedia"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Sarah is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students. She also teaches quantitative methodology courses for graduate students.\n\nEducation\n\nPhD in Statistics, 2017\nMS in Statistics, 2006\nBS Math & Chem Teaching, 2000\nUtah State University\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "foundation.html",
+    "href": "foundation.html",
+    "title": "6600: Statistcal Foundations",
+    "section": "",
+    "text": "“Statistical Foundations” is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.",
+    "crumbs": [
+      "TEACHING",
+      "Stat Foundations"
+    ]
+  },
+  {
+    "objectID": "foundation.html#syllabus",
+    "href": "foundation.html#syllabus",
+    "title": "6600: Statistcal Foundations",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nSummer 2021\nSpring 2021\nSummer 2020\nSpring 2020",
+    "crumbs": [
+      "TEACHING",
+      "Stat Foundations"
+    ]
+  },
+  {
+    "objectID": "foundation.html#textbooks",
+    "href": "foundation.html#textbooks",
+    "title": "6600: Statistcal Foundations",
+    "section": "Textbooks",
+    "text": "Textbooks\n\nExplaining Psychological Statistics, 4th edition, by Barry Cohen\n\n\nUSU library: Free, with USU login\nAmazon: purchase, new or used\n\n\nPublication Manual of the APA: The Official Guide to APA Style, 7th edition (2020)\n\n\nAmazon: purchase new",
+    "crumbs": [
+      "TEACHING",
+      "Stat Foundations"
+    ]
+  },
+  {
+    "objectID": "foundation.html#encyclopedia",
+    "href": "foundation.html#encyclopedia",
+    "title": "6600: Statistcal Foundations",
+    "section": "Encyclopedia",
+    "text": "Encyclopedia\n\nVolume 0. Setting up Your Computer\nVolume 1. Wrangling Your Data\nVolume 2. Exploring Your Data\nVolume 3. Testing Mean Differences\nVolume 4. Correlation & Regression",
+    "crumbs": [
+      "TEACHING",
+      "Stat Foundations"
+    ]
+  },
+  {
+    "objectID": "foundation.html#youtube",
+    "href": "foundation.html#youtube",
+    "title": "6600: Statistcal Foundations",
+    "section": "YouTube",
+    "text": "YouTube\n\nSarah Schwartz Stats LINK",
+    "crumbs": [
+      "TEACHING",
+      "Stat Foundations"
+    ]
+  },
+  {
+    "objectID": "foundation.html#downloads",
+    "href": "foundation.html#downloads",
+    "title": "6600: Statistcal Foundations",
+    "section": "Downloads",
+    "text": "Downloads\n\nIhno’s Dataset: SPSS or Excel, data dictionary\nFormula Sheet\nLook-up Tables",
+    "crumbs": [
+      "TEACHING",
+      "Stat Foundations"
+    ]
+  },
+  {
+    "objectID": "mlm.html",
+    "href": "mlm.html",
+    "title": "Multilevel and Marginal Models",
+    "section": "",
+    "text": "Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Hierarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).",
+    "crumbs": [
+      "Teaching",
+      "TEACHING",
+      "Multilevel Modeling"
+    ]
+  },
+  {
+    "objectID": "mlm.html#structure",
+    "href": "mlm.html#structure",
+    "title": "Multilevel and Marginal Models",
+    "section": "Structure",
+    "text": "Structure\nThis is a lecture and applied skills course and students will be expected to demonstrate their learning via classroom participation, written assignments, and a presentation. Much of the basic material will be presented in readings (textbook and supplements) and pre-recorded lectures which students will view prior to class. The purpose of class time (on Zoom) is to elaborate on interesting or difficult material presented in the text, conduct skill-building exercises and demonstrations, and to provide a forum for class discussions in more of a lab fashion. We will frequently use a hands-on approach in class, working through analyses together via computer software.",
+    "crumbs": [
+      "Teaching",
+      "TEACHING",
+      "Multilevel Modeling"
+    ]
+  },
+  {
+    "objectID": "mlm.html#syllabus",
+    "href": "mlm.html#syllabus",
+    "title": "Multilevel and Marginal Models",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nFall 2020 - Dr. Schwartz (Tue/Thr 4:30-6:00 pm)\nFall 2020 - Dr. Schwartz (Tue/Thr 4:30-6:00 pm)",
+    "crumbs": [
+      "Teaching",
+      "TEACHING",
+      "Multilevel Modeling"
+    ]
+  },
+  {
+    "objectID": "mlm.html#textbooks",
+    "href": "mlm.html#textbooks",
+    "title": "Multilevel and Marginal Models",
+    "section": "Textbooks",
+    "text": "Textbooks\n\nMultilevel Analysis: Techniques and Applications, 3rd edition (2018), by Joop J. Hox, Mirjam Moerbeek, and Rens van de Schoot\n\n\nUSU library: Free, with USU login\nAmazon: purchase, new or used\n\n\nPublication Manual of the APA: The Official Guide to APA Style, 7th edition (2020)\n\n\nAmazon: purchase new",
+    "crumbs": [
+      "Teaching",
+      "TEACHING",
+      "Multilevel Modeling"
+    ]
+  },
+  {
+    "objectID": "mlm.html#encyclopedia",
+    "href": "mlm.html#encyclopedia",
+    "title": "Multilevel and Marginal Models",
+    "section": "Encyclopedia",
+    "text": "Encyclopedia\n\nVolume 0. Setting up Your Computer\nVolume 1. Wrangling Your Data\nVolume 2. Exploring Your Data\nVolume 3. Testing Mean Differences\nVolume 4. Correlation & Regression\nVolume 5. Multilevel & Marginal Modeling\n\n\nYouTube\n\nSarah Schwartz Stats LINK",
+    "crumbs": [
+      "Teaching",
+      "TEACHING",
+      "Multilevel Modeling"
+    ]
+  },
+  {
+    "objectID": "regression.html",
+    "href": "regression.html",
+    "title": "Sarah Schwartz Stats",
+    "section": "",
+    "text": "Coming soon for Spring 2025\n\n\n Back to top",
+    "crumbs": [
+      "TEACHING",
+      "Regression Analysis"
+    ]
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Philosophy\n\nGrowth mindset\nApplication\n\n\n\n\nGraduate Course\nCurrently teaching at USU\n\nUsing RFoundationsRegressionMultilevel\n\n\nEDUC\n\nIntroduction to Using R for Research\n\n\n\nPSY 6600 or EDUC 6600\n\nStatistical Foundations\nThis course covers research design and statistical concepts for research in education, human services, and psychology, with an emphasis on the selection and interpretation of statistical analyses.\n\n\n\nPSY 7610 or EDUC 7610\n\nRegression Analysis\nThis course is an advanced treatment of research design and statistical concepts and issues in educational, human services, and psychological research.\n\n\n\nPSY 7650\n\nMultilevel and Marginal Models\nCoverage of multilevel (i.e., mixed-effects, hierarchical linear), and marginal (GEE) models for both continuous and categorical outcomes. Includes application of these methods to many types of cross-sectional and longitudinal research designs (e.g., experimental, case-control, cohort, cross-over, complex sample, randomized controlled trials).\n\n\n\n\n\n\n\nUndergraduate Courses\nPast courses taught at USU\n\nPSY 3010STAT 2000STAT 1040MATH 1050MATH 1010\n\n\n\nPsychological Statistics\nThis course is an introduction to descriptive and inferential statistics for the behavioral sciences. Topics include measures of central tendency and variability, sampling distributions, and hypothesis testing procedures including t-tests, analysis of variance, and correlation and regression.\n\n\n\n\nStatistical Methods\nIntroduction to statistical concepts, graphical techniques, probability, distributions, estimation, one and two sample testing, chi-square tests, and simple linear regression, one-way ANOVA.\n\n\n\n\nIntroduction to Statistics\nDescriptive and inferential statistical methods. Emphasis on conceptual understanding and statistical thinking. Examples presented from many different areas.\n\n\n\n\nCollege Algebra\nFunctions: graphs, transformations, combinations and inverses. Polynomial, rational, exponential, logarithmic functions and applications. Systems of equations and matrices. Graphing calculator required.\n\n\n\n\nIntermediate Algebra\nLinear equations and inequalities, polynomials and exponents, rational expressions, roots and radicals, quadratic equations, lines, systems of equations and inequalities, applied problems , factoring, graphs, the quadratic formula , completing the square and complex numbers.\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "TEACHING",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "r4research.html#introduction",
+    "href": "r4research.html#introduction",
+    "title": "Using R for Research",
+    "section": "INTRODUCTION",
+    "text": "INTRODUCTION\n\nLecture Slides\n\nGetting Started with R\n\n\n\nYouTube Videos\n\nR lingo, nouns (objects/data) and verbs (actions/functions) (40 min)\nR pipelines, linking/chaining steps (18 min)\nIntro to Tidy R (79 min)\n\n\n\nExample\nBlank R Notebook: Supplement skeleton\nExample R Notebook: Appendix: Example Weightloss\nStyle file: apa7.csl",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
+  },
+  {
+    "objectID": "r4research.html#sessions",
+    "href": "r4research.html#sessions",
+    "title": "Using R for Research",
+    "section": "",
+    "text": "Wednesdays 1:30pm - DE 109",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
+  }
+]

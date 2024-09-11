@@ -1,47 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teaching on Sarah Schwartz - Stats</title>
-    <link>/tags/teaching/</link>
-    <description>Recent content in Teaching on Sarah Schwartz - Stats</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Using R for Research</title>
-      <link>/teaching/userresearch/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/userresearch/</guid>
-      <description>Have you heard about R, but don’t know where to start?After trying out R, are you still overwhelmed?Do you want to take your quantitative analysis to the next level?If so, then this is the class for you!
-8 Wednesdays in Fall 2024September (4, 11, 18, 25) &amp;amp; October (2, 9, 23, 30)1:30 – 2:20 pm DistEd 109 or Zoom
-Open all faculty and grad students in CEHSCome learn hands-on in a lab setting during 8-weeks of step-by-step instruction on:* managing and reshaping data* quickly creating descriptive tables* exploratory and advanced plotting* transparent quantitative modeling* creating supplemental materials</description>
-    </item>
-    
-    <item>
-      <title>Multilevel and Marginal Modeling</title>
-      <link>/teaching/multilevel/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/multilevel/</guid>
-      <description>Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Hierarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).</description>
-    </item>
-    
-    <item>
-      <title>Statistical Foundations</title>
-      <link>/teaching/foundation/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/foundation/</guid>
-      <description>“Statistical Foundations” is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.
-Note: This course was historically called “Research Design andAnalysis I”
-FocusThis course will mostly focus on basic statistical techniques and several forms of the ANOVA model, which can be used by themselves or serve as building blocks for more advanced techniques in other courses.</description>
-    </item>
-    
-  </channel>
-</rss>

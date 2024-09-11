@@ -1,0 +1,19 @@
+---
+Title: "Examples"
+---
+
+# In-class Examples
+
+::: {.panel-tabset .nav-pills}
+
+## Supplemental Material
+
+
+
+
+## Appendix
+
+
+
+:::
+---

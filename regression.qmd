@@ -1,0 +1,11 @@
+---
+Title: "7610: Regression Analysis"
+subtitle: "PSY 7610 / EDUC 7610"
+image: images/hex_SSS.png
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 15em
+---
+
+Coming soon for Spring 2025

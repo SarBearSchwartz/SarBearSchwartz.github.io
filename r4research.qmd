@@ -1,0 +1,39 @@
+---
+title: "Using R for Research"
+author: "Dr. Sarah E Schwartz"
+image: images/hex_manyR.png
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 15em
+---
+
+## SESSIONS
+
+### Fall 2024: Intro level 
+
+Wednesdays 1:30pm - DE 109
+
+------------------------------------------------------------------------
+
+## INTRODUCTION
+
+### Lecture Slides
+
+-   [Getting Started with R](https://cehs-research.github.io/PSY-6600_public/slides/ch0_getting_started_r.html#1)
+
+### YouTube Videos
+
+-   [R lingo, nouns (objects/data) and verbs (actions/functions) (40 min)](https://www.youtube.com/watch?v=wXpuRcpOX6E)
+
+-   [R pipelines, linking/chaining steps (18 min)](https://www.youtube.com/watch?v=iHYZ6ZJnekA)
+
+-   [Intro to Tidy R (79 min)](https://www.youtube.com/watch?v=bZtaIUezxJY&list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&index=2)
+
+### Example
+
+Blank R Notebook: [Supplement skeleton](https://raw.github.com/sarbearschwartz/r4research/master/Supplement_skeleton.Rmd)
+
+Example R Notebook: [Appendix: Example Weightloss](https://raw.github.com/sarbearschwartz/r4research/master/Appendix_ex_weightloss.Rmd)
+
+Style file: [apa7.csl](https://raw.github.com/sarbearschwartz/r4research/master/apa7.csl)

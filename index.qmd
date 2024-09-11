@@ -1,0 +1,22 @@
+---
+title: "Sarah E Schwartz"
+subtitle: "Statistician"
+about: 
+    template: solana
+---
+
+# Current
+
+Research Assistant Professor, [Psychology Department](https://cehs.usu.edu/psychology/)
+
+Director, [Statistical Consulting Studio](https://cehs.usu.edu/research/statstudio/)
+
+[Emma Eccles Jones College of Education and Human Services](https://cehs.usu.edu/)
+
+[Utah State University](https://www.usu.edu/)
+
+![](images/Education_Logo_WHITE-02-01.png){width="375"}
+
+------------------------------------------------------------------------
+
+# 
