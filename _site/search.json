@@ -33,11 +33,33 @@
     ]
   },
   {
+    "objectID": "r4research.html#sessions",
+    "href": "r4research.html#sessions",
+    "title": "Using R for Research",
+    "section": "",
+    "text": "Wednesdays 1:30pm - DE 109",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
+  },
+  {
+    "objectID": "r4research.html#introduction",
+    "href": "r4research.html#introduction",
+    "title": "Using R for Research",
+    "section": "INTRODUCTION",
+    "text": "INTRODUCTION\n\nLecture Slides\n\nGetting Started with R\n\n\n\nYouTube Videos\n\nR lingo, nouns (objects/data) and verbs (actions/functions) (40 min)\nR pipelines, linking/chaining steps (18 min)\nIntro to Tidy R (79 min)\n\n\n\nExample\nSkeletons:\n\nPublication Supplemental Material\nUSU Dissertation Appendix\nNeed to download: apa 7th style file\n\nExample Appendix: Weightloss.Rmd",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sarah E Schwartz",
     "section": "",
-    "text": "Current\nResearch Assistant Professor, Psychology Department\nDirector, Statistical Consulting Studio\nEmma Eccles Jones College of Education and Human Services\nUtah State University\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Back to top"
   },
   {
     "objectID": "encyclopedia_vol.html",
@@ -55,7 +77,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Sarah is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students. She also teaches quantitative methodology courses for graduate students.\n\nEducation\n\nPhD in Statistics, 2017\nMS in Statistics, 2006\nBS Math & Chem Teaching, 2000\nUtah State University\n\n\n\n\n Back to top"
+    "text": "Sarah is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students. She also teaches quantitative methodology courses for graduate students.\n\nCurrent\nResearch Assistant Professor, Psychology Department\nDirector, Statistical Consulting Studio\nEmma Eccles Jones College of Education and Human Services\nUtah State University\n\n\n\nEducation\n\nPhD in Statistics, 2017\nMS in Statistics, 2006\nBS Math & Chem Teaching, 2000\nUtah State University\n\n\n\n\n Back to top"
   },
   {
     "objectID": "foundation.html",
@@ -130,7 +152,6 @@
     "section": "",
     "text": "Multilevel Modeling is designed to provide graduate students with a practical, applied approach to the clustered and/or longitudinal data. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems. This includes Multilevel Modeling (MLM), which also goes by such names as Hierarchical Linear Modeling (HLM) and Mixed Effects Regression (MER), Generalized Multilevel Modeling (GzMLM), and Generalized Estimating Equations (GEE).",
     "crumbs": [
-      "Teaching",
       "TEACHING",
       "Multilevel Modeling"
     ]
@@ -142,7 +163,6 @@
     "section": "Structure",
     "text": "Structure\nThis is a lecture and applied skills course and students will be expected to demonstrate their learning via classroom participation, written assignments, and a presentation. Much of the basic material will be presented in readings (textbook and supplements) and pre-recorded lectures which students will view prior to class. The purpose of class time (on Zoom) is to elaborate on interesting or difficult material presented in the text, conduct skill-building exercises and demonstrations, and to provide a forum for class discussions in more of a lab fashion. We will frequently use a hands-on approach in class, working through analyses together via computer software.",
     "crumbs": [
-      "Teaching",
       "TEACHING",
       "Multilevel Modeling"
     ]
@@ -154,7 +174,6 @@
     "section": "Syllabus",
     "text": "Syllabus\n\nFall 2020 - Dr. Schwartz (Tue/Thr 4:30-6:00 pm)\nFall 2020 - Dr. Schwartz (Tue/Thr 4:30-6:00 pm)",
     "crumbs": [
-      "Teaching",
       "TEACHING",
       "Multilevel Modeling"
     ]
@@ -166,7 +185,6 @@
     "section": "Textbooks",
     "text": "Textbooks\n\nMultilevel Analysis: Techniques and Applications, 3rd edition (2018), by Joop J. Hox, Mirjam Moerbeek, and Rens van de Schoot\n\n\nUSU library: Free, with USU login\nAmazon: purchase, new or used\n\n\nPublication Manual of the APA: The Official Guide to APA Style, 7th edition (2020)\n\n\nAmazon: purchase new",
     "crumbs": [
-      "Teaching",
       "TEACHING",
       "Multilevel Modeling"
     ]
@@ -178,7 +196,6 @@
     "section": "Encyclopedia",
     "text": "Encyclopedia\n\nVolume 0. Setting up Your Computer\nVolume 1. Wrangling Your Data\nVolume 2. Exploring Your Data\nVolume 3. Testing Mean Differences\nVolume 4. Correlation & Regression\nVolume 5. Multilevel & Marginal Modeling\n\n\nYouTube\n\nSarah Schwartz Stats LINK",
     "crumbs": [
-      "Teaching",
       "TEACHING",
       "Multilevel Modeling"
     ]
@@ -203,28 +220,6 @@
     "crumbs": [
       "TEACHING",
       "Overview"
-    ]
-  },
-  {
-    "objectID": "r4research.html#introduction",
-    "href": "r4research.html#introduction",
-    "title": "Using R for Research",
-    "section": "INTRODUCTION",
-    "text": "INTRODUCTION\n\nLecture Slides\n\nGetting Started with R\n\n\n\nYouTube Videos\n\nR lingo, nouns (objects/data) and verbs (actions/functions) (40 min)\nR pipelines, linking/chaining steps (18 min)\nIntro to Tidy R (79 min)\n\n\n\nExample\nBlank R Notebook: Supplement skeleton\nExample R Notebook: Appendix: Example Weightloss\nStyle file: apa7.csl",
-    "crumbs": [
-      "TEACHING",
-      "Using R for Research"
-    ]
-  },
-  {
-    "objectID": "r4research.html#sessions",
-    "href": "r4research.html#sessions",
-    "title": "Using R for Research",
-    "section": "",
-    "text": "Wednesdays 1:30pm - DE 109",
-    "crumbs": [
-      "TEACHING",
-      "Using R for Research"
     ]
   }
 ]
