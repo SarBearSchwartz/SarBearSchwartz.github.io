@@ -23,6 +23,8 @@ EDUC
 
 ### Introduction to Using R for Research
 
+Workshop Series
+
 ## Foundations
 
 PSY 6600 or EDUC 6600

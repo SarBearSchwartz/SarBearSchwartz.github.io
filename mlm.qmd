@@ -38,7 +38,7 @@ This is a lecture and applied skills course and students will be expected to dem
 
 # Resources
 
-##  Textbooks
+## Textbooks
 
 1.  **Multilevel Analysis: Techniques and Applications**, 3rd edition (2018), by *Joop J. Hox, Mirjam Moerbeek, and Rens van de Schoot*
 

@@ -34,5 +34,35 @@
   },
   "youtube.qmd": {
     "youtube.html": "fa4302c5"
+  },
+  "themes/hugo-universal-theme/archetypes/default.md": {
+    "default.html": "1e9cae3f"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/blog/categories-post.md": {
+    "categories-post.html": "564732d8"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/blog/creating-a-new-theme.md": {
+    "creating-a-new-theme.html": "b946c442"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/blog/go-is-for-lovers.md": {
+    "go-is-for-lovers.html": "68eeb212"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/blog/hugo-is-for-lovers.md": {
+    "hugo-is-for-lovers.html": "1c51d717"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/blog/linked-post.md": {
+    "linked-post.html": "d2f830ae"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/blog/migrate-from-jekyll.md": {
+    "migrate-from-jekyll.html": "3e2e1146"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/contact.md": {
+    "contact.html": "ad98ab1b"
+  },
+  "themes/hugo-universal-theme/exampleSite/content/faq.md": {
+    "faq.html": "313fe493"
+  },
+  "themes/hugo-universal-theme/layouts/archetypes/default.md": {
+    "default.html": "f8c54edb"
   }
 }

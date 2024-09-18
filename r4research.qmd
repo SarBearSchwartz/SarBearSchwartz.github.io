@@ -1,43 +1,148 @@
 ---
-title: "Using R for Research"
-author: "Dr. Sarah E Schwartz"
+title: "Using R for Research: Intro"
 image: images/hex_manyR.png
 about: 
-    template: solana
+    template: jolla
     image-shape: rectangle
     image-width: 15em
 ---
 
-## SESSIONS
-
-### Fall 2024: Intro level
-
-Wednesdays 1:30pm - DE 109
+Fall 2024 — Wednesdays 1:30 - 2:20pm — Dist Ed, 109
 
 ------------------------------------------------------------------------
 
-## INTRODUCTION
+# Daily Agenda
 
-### Lecture Slides
+*( Note: Skip October 16 for Fall Break )*
 
--   [Getting Started with R](https://cehs-research.github.io/PSY-6600_public/slides/ch0_getting_started_r.html#1)
+::: {.panel-tabset .nav-pills}
+## 1
 
-### YouTube Videos
+\[ September 4, 2024 \]
 
--   [R lingo, nouns (objects/data) and verbs (actions/functions) (40 min)](https://www.youtube.com/watch?v=wXpuRcpOX6E)
+------------------------------------------------------------------------
 
--   [R pipelines, linking/chaining steps (18 min)](https://www.youtube.com/watch?v=iHYZ6ZJnekA)
+### Software Setup
 
--   [Intro to Tidy R (79 min)](https://www.youtube.com/watch?v=bZtaIUezxJY&list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&index=2)
+Install R, R Studio, and R packages (`tinytex`)
 
-### Example
+Introduce R markdown & R notebooks
 
-Skeletons:
+Workspace orientation
 
--   [Publication Supplemental Material](https://usu.box.com/s/uxx8zda0fww2rm44p9r02orz2z4q5g0z)
+------------------------------------------------------------------------
 
--   [USU Dissertation Appendix](https://usu.box.com/s/qh8gob4h2ez6c5q2bor3sw2s6kdveozb)
+#### Excyclopedia
 
--   Need to download: [apa 7th style file](https://usu.box.com/s/f1atkg2hqt3rmvi5c48f9tup6hc3krs0)
+[Vol. 1 Setting up Your Computer](https://cehs-research.github.io/eBook_install/)
 
-Example Appendix: [Weightloss.Rmd](https://usu.box.com/s/vnl54ofkcybyq67persg7bke9wjyhnx3)
+#### YouTube Videos
+
+[Getting Started: Installing R, R Studio, and R packages (2023 - 35 min)](https://www.youtube.com/watch?v=tLAZYIIVdvk)
+
+[DIRECTIONS: Sarah's R Studio Arrangement/options (5 min)](https://www.youtube.com/watch?v=4bIzq2vxYx0)
+
+## 2
+
+\[ September 11, 2024 \]
+
+------------------------------------------------------------------------
+
+### Intro to R Syntax
+
+Lingo - nouns (objects/data) vs. verbs (actions/functions)
+
+R piplines, linking/chaining steps
+
+Importing Data: csv, Excel, SPSS, etc.
+
+------------------------------------------------------------------------
+
+#### Slides
+
+[Getting Started with R](https://cehs-research.github.io/PSY-6600_public/slides/ch0_getting_started_r.html#1)
+
+#### YouTube Videos
+
+[R lingo, nouns (objects/data) and verbs (actions/functions) (40 min)](https://www.youtube.com/watch?v=wXpuRcpOX6E)
+
+[R pipelines, linking/chaining steps (18 min)](https://www.youtube.com/watch?v=iHYZ6ZJnekA)
+
+[Intro to Tidy R (from MLM class in 2020 - 79 min)](https://www.youtube.com/watch?v=bZtaIUezxJY&list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&index=2)
+
+## 3
+
+\[ September 18, 2024 \]
+
+------------------------------------------------------------------------
+
+### Big Picture Overview
+
+Work through a sample case from reading in the data to producing a report.
+
+------------------------------------------------------------------------
+
+#### In-class Example
+
+Thanks you Karen Munoz for providing a de-identified data in both [SPSS](https://usu.box.com/s/zvvkaa236dxofyqta44gmffn4ds0a0bt) and [Excel](https://usu.box.com/s/pz56elev6tac66ju6dtph1n3jltxxyjw) format.
+
+Missing codes of `888` were used.
+
+Here is our task list:
+
+\(1\) Descriptives for table 1 (full sample)
+
+\(2\) Boxplots for AAQ-AHL total score by device type
+
+\(3\) Descriptive summary for sub-group of people with a better ear (PTA \< 25 dB HL)
+
+\(4\) Correlations for AAQ-AHL total score and age and better ear PTA (with scatterplots)
+
+## 4
+
+September 25, 2024
+
+### Data Wrangling
+
+## 5
+
+October 2, 2024
+
+### Powerful Plotting
+
+## 6
+
+October 9, 2024
+
+### TBA
+
+## 7
+
+October 23, 2024
+
+### TBA
+
+## 8
+
+October 30, 2024
+
+### TBA
+:::
+
+------------------------------------------------------------------------
+
+# Downloads
+
+## Skeletons
+
+[Publication Supplemental Material](https://usu.box.com/s/uxx8zda0fww2rm44p9r02orz2z4q5g0z)
+
+[USU Dissertation Appendix](https://usu.box.com/s/qh8gob4h2ez6c5q2bor3sw2s6kdveozb)
+
+Need to download: [apa 7th style file](https://usu.box.com/s/f1atkg2hqt3rmvi5c48f9tup6hc3krs0)
+
+## Examples
+
+Appendix: [Weightloss.Rmd](https://usu.box.com/s/vnl54ofkcybyq67persg7bke9wjyhnx3)
+
+# 
