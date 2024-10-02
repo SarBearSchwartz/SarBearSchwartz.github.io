@@ -42,6 +42,14 @@ Workspace orientation
 
 [DIRECTIONS: Sarah's R Studio Arrangement/options (5 min)](https://www.youtube.com/watch?v=4bIzq2vxYx0)
 
+::: {style="max-width:608px"}
+::: {style="position:relative;padding-bottom:66.118421052632%"}
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_5gq1ldqe&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_odecko16%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Fall 2024 EDUC-6560-MB1 XL" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
+
+</iframe>
+:::
+:::
+
 ## 2
 
 \[ September 11, 2024 \]
@@ -70,9 +78,17 @@ Importing Data: csv, Excel, SPSS, etc.
 
 [Intro to Tidy R (from MLM class in 2020 - 79 min)](https://www.youtube.com/watch?v=bZtaIUezxJY&list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&index=2)
 
-## 3
+::: {style="max-width:608px"}
+::: {style="position:relative;padding-bottom:66.118421052632%"}
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_o0rbwg11&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_29il1d8x%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A2190%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Fall 2024 EDUC-6560-MB1 XL" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
-\[ September 18, 2024 \]
+</iframe>
+:::
+:::
+
+## 3-4
+
+\[ September 18 & 25, 2024 \]
 
 ------------------------------------------------------------------------
 
@@ -98,33 +114,37 @@ Here is our task list:
 
 \(4\) Correlations for AAQ-AHL total score and age and better ear PTA (with scatterplots)
 
-## 4
+R notebook: [End of day 3](https://usu.box.com/s/ohhzd99mt5s0vxaqekquhcedgytaof7c)
 
-September 25, 2024
+::: {style="max-width:608px"}
+::: {style="position:relative;padding-bottom:66.118421052632%"}
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_ot1ta91c&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_4ezxixnv%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Using R for Research: Intro, 2024 - day 3" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
-### Data Wrangling
+</iframe>
+:::
+:::
 
 ## 5
 
-October 2, 2024
+\[ October 2, 2024 \]
 
-### Powerful Plotting
+### Data Wrangling
 
 ## 6
 
-October 9, 2024
+\[ October 9, 2024 \]
 
-### TBA
+### Powerful Plotting
 
 ## 7
 
-October 23, 2024
+\[ October 23, 2024 \]
 
 ### TBA
 
 ## 8
 
-October 30, 2024
+\[ October 30, 2024 \]
 
 ### TBA
 :::
