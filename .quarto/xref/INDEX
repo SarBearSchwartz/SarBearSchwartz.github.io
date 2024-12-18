@@ -64,5 +64,35 @@
   },
   "themes/hugo-universal-theme/layouts/archetypes/default.md": {
     "default.html": "f8c54edb"
+  },
+  "content/blog/categories-post.md": {
+    "categories-post.html": "ae5adc71"
+  },
+  "content/blog/creating-a-new-theme.md": {
+    "creating-a-new-theme.html": "799c7c2f"
+  },
+  "content/blog/go-is-for-lovers.md": {
+    "go-is-for-lovers.html": "73424995"
+  },
+  "content/blog/hugo-is-for-lovers.md": {
+    "hugo-is-for-lovers.html": "65df61c7"
+  },
+  "content/blog/linked-post.md": {
+    "linked-post.html": "cfd3919e"
+  },
+  "content/blog/migrate-from-jekyll.md": {
+    "migrate-from-jekyll.html": "8687f5b1"
+  },
+  "content/contact.md": {
+    "contact.html": "62d814b8"
+  },
+  "content/faq.md": {
+    "faq.html": "f5945d78"
+  },
+  "cv/index.qmd": {
+    "index.html": "2026b90a"
+  },
+  "pubs.qmd": {
+    "pubs.html": "fbf3f108"
   }
 }

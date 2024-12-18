@@ -42,13 +42,13 @@ Workspace orientation
 
 [DIRECTIONS: Sarah's R Studio Arrangement/options (5 min)](https://www.youtube.com/watch?v=4bIzq2vxYx0)
 
-::: {style="max-width:608px"}
+:::: {style="max-width:608px"}
 ::: {style="position:relative;padding-bottom:66.118421052632%"}
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_5gq1ldqe&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_odecko16%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Fall 2024 EDUC-6560-MB1 XL" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
 </iframe>
 :::
-:::
+::::
 
 ## 2
 
@@ -78,17 +78,17 @@ Importing Data: csv, Excel, SPSS, etc.
 
 [Intro to Tidy R (from MLM class in 2020 - 79 min)](https://www.youtube.com/watch?v=bZtaIUezxJY&list=PLtAksNetLqNpvUgGYL21LpyR7OszB-Qn1&index=2)
 
-::: {style="max-width:608px"}
+:::: {style="max-width:608px"}
 ::: {style="position:relative;padding-bottom:66.118421052632%"}
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_o0rbwg11&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_29il1d8x%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A2190%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Fall 2024 EDUC-6560-MB1 XL" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
 </iframe>
 :::
-:::
+::::
 
-## 3-4
+## 3-5
 
-\[ September 18 & 25, 2024 \]
+\[ Sept 18 & 25 and Oct 2, 2024 \]
 
 ------------------------------------------------------------------------
 
@@ -100,43 +100,61 @@ Work through a sample case from reading in the data to producing a report.
 
 #### In-class Example
 
-Thanks you Karen Munoz for providing a de-identified data in both [SPSS](https://usu.box.com/s/zvvkaa236dxofyqta44gmffn4ds0a0bt) and [Excel](https://usu.box.com/s/pz56elev6tac66ju6dtph1n3jltxxyjw) format.
+[Thanks you Karen Munoz for providing a de-identified data]{.smallcaps} ([Excel](https://usu.box.com/s/pz56elev6tac66ju6dtph1n3jltxxyjw))
 
-Missing codes of `888` were used.
+[To get started, you will need the following files saved **in the same folder**]{.underline}
 
-Here is our task list:
+***data*** in SPSS format: [SPSS dataset](https://usu.box.com/s/zvvkaa236dxofyqta44gmffn4ds0a0bt)
 
-\(1\) Descriptives for table 1 (full sample)
+empty/outline skeleton ***notebook***: [Supplement Skeleton](https://usu.box.com/s/uxx8zda0fww2rm44p9r02orz2z4q5g0z)
 
-\(2\) Boxplots for AAQ-AHL total score by device type
+***style*** file: [APA 7th edition](https://usu.box.com/s/f1atkg2hqt3rmvi5c48f9tup6hc3krs0)
 
-\(3\) Descriptive summary for sub-group of people with a better ear (PTA \< 25 dB HL)
+##### Skeleton notebook after each class day
 
-\(4\) Correlations for AAQ-AHL total score and age and better ear PTA (with scatterplots)
+[day 3 end: Sept 18, 2024](https://usu.box.com/s/ohhzd99mt5s0vxaqekquhcedgytaof7c)
 
-R notebook: [End of day 3](https://usu.box.com/s/ohhzd99mt5s0vxaqekquhcedgytaof7c)
+[day 4 end: Sept 25, 2024](https://usu.box.com/s/q0c04fpepqc0jc5hjofvozea221pirhq)
 
-::: {style="max-width:608px"}
+[day 5 end: Oct 2 2024](https://usu.box.com/s/235so3ok6ntc8uqkfvzzgrr2qpngn51z)
+
+##### Day 3 Recording
+
+:::: {style="max-width:608px"}
 ::: {style="position:relative;padding-bottom:66.118421052632%"}
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_ot1ta91c&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_4ezxixnv%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Using R for Research: Intro, 2024 - day 3" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_ot1ta91c&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_hviriia1%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Using R for Research: Intro, 2024 - day 3" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
 </iframe>
 :::
+::::
+
+##### Day 4 Recording
+
+:::: {style="max-width:608px"}
+::: {style="position:relative;padding-bottom:66.118421052632%"}
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_5v72y00a&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_8rqkuvew%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A360%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Using R for Research: Intro, 2024 - day 4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
+
+</iframe>
 :::
+::::
 
 :::: {style="max-width:608px"}
 ::: {style="position:relative;padding-bottom:66.118421052632%"}
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_5v72y00a&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_1yfky0m6%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Using R for Research: Intro, 2024 - day 4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
-\[ October 2, 2024 \]
+:::: {style="max-width:608px"}
+::: {style="position:relative;padding-bottom:66.118421052632%"}
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_z2noyb7q&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_3vlnzldg%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A387%7D" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Using R for Research: Intro, 2024 - day 5" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0">
 
-### Data Wrangling
+</iframe>
+:::
+::::
 
 ## 6
 
 \[ October 9, 2024 \]
 
-### Powerful Plotting
+### Data Wrangling
 
 ## 7
 
@@ -163,7 +181,7 @@ R notebook: [End of day 3](https://usu.box.com/s/ohhzd99mt5s0vxaqekquhcedgytaof7
 
 [USU Dissertation Appendix](https://usu.box.com/s/qh8gob4h2ez6c5q2bor3sw2s6kdveozb)
 
-Need to download: [apa 7th style file](https://usu.box.com/s/f1atkg2hqt3rmvi5c48f9tup6hc3krs0)
+Need to download: apa 7th style file
 
 ## Examples
 

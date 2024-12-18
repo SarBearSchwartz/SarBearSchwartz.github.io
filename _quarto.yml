@@ -23,6 +23,8 @@ website:
       - text: "{{< ai osf size=2em >}}"
         href: https://osf.io/3f87g
     right: 
+      - text: "CV"
+        href: cv/index.qmd
       - text: "About"
         href: about.qmd
       - icon: envelope
@@ -62,7 +64,7 @@ website:
           - href: youtube.qmd
             text: "YouTube"
           - href: skeletons.qmd
-            text: "Skeletons"      
+            text: "Skeletons"   
 
 
     

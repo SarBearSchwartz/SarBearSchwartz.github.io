@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sarah Schwartz Stats</title>
+    <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/</link>
+    <description>Recent content in Tags on Sarah Schwartz Stats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://github.com/sarbearschwartz/hugo-universal-theme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/golang/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/hugo/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/programming/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/theme/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/tags/theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/go/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ipsum</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/ipsum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/tags/ipsum/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

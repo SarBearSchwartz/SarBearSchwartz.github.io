@@ -28,8 +28,6 @@ about:
 
 Sarah is involved in the analysis of research on topics as varied as speech and language impairment, sexual assault, instructional technology, and family dynamics while collaborating with faculty and graduate students. She also teaches quantitative methodology courses for graduate students.
 
-# Current
-
 Research Assistant Professor, [Psychology Department](https://cehs.usu.edu/psychology/)
 
 Director, [Statistical Consulting Studio](https://cehs.usu.edu/research/statstudio/)
@@ -40,12 +38,4 @@ Director, [Statistical Consulting Studio](https://cehs.usu.edu/research/statstud
 
 ![](images/Education_Logo_WHITE-02-01.png){width="375"}
 
-# Education
-
--   PhD in Statistics, 2017
-
--   MS in Statistics, 2006
-
--   BS Math & Chem Teaching, 2000
-
-    Utah State University
+# 

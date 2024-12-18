@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Sarah Schwartz Stats</title>
+    <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/go/</link>
+    <description>Recent content in Go on Sarah Schwartz Stats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <atom:link href="https://github.com/sarbearschwartz/hugo-universal-theme/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

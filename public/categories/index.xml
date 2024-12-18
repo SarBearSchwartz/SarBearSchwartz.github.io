@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sarah Schwartz Stats</title>
+    <link>https://github.com/sarbearschwartz/hugo-universal-theme/categories/</link>
+    <description>Recent content in Categories on Sarah Schwartz Stats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://github.com/sarbearschwartz/hugo-universal-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/categories/lorem/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/categories/lorem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/categories/programming/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pseudo</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/categories/pseudo/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starting</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/categories/starting/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

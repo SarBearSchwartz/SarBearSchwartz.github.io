@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on Sarah Schwartz Stats</title>
+    <link>https://github.com/sarbearschwartz/hugo-universal-theme/tags/ipsum/</link>
+    <description>Recent content in Ipsum on Sarah Schwartz Stats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://github.com/sarbearschwartz/hugo-universal-theme/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://github.com/sarbearschwartz/hugo-universal-theme/blog/1/01/01/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/sarbearschwartz/hugo-universal-theme/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ images/&#xA;        logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ static/&#xA;        ▾ images/&#xA;            logo.png&#xA;&lt;/code&gt;&lt;/pr</description>
+    </item>
+  </channel>
+</rss>

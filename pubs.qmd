@@ -1,0 +1,17 @@
+---
+title: "Publications"
+subtitle: "Journal Artiles"
+image: images/USUAug820247058.jpg
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 15em
+---
+
+**“Statistical Foundations”** is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.
+
+> Note: This course was historically called “Research Design and Analysis I”
+
+# **Focus**
+
+This course will
