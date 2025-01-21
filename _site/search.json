@@ -243,30 +243,8 @@
     ]
   },
   {
-    "objectID": "r4research.html#section",
-    "href": "r4research.html#section",
-    "title": "Using R for Research: Intro",
-    "section": "2",
-    "text": "2\n[ September 11, 2024 ]\n\n\nIntro to R Syntax\nLingo - nouns (objects/data) vs. verbs (actions/functions)\nR piplines, linking/chaining steps\nImporting Data: csv, Excel, SPSS, etc.\n\n\nSlides\nGetting Started with R\n\n\nYouTube Videos\nR lingo, nouns (objects/data) and verbs (actions/functions) (40 min)\nR pipelines, linking/chaining steps (18 min)\nIntro to Tidy R (from MLM class in 2020 - 79 min)",
-    "crumbs": [
-      "TEACHING",
-      "Using R for Research"
-    ]
-  },
-  {
-    "objectID": "r4research.html#section-1",
-    "href": "r4research.html#section-1",
-    "title": "Using R for Research: Intro",
-    "section": "3-5",
-    "text": "3-5\n[ Sept 18 & 25 and Oct 2, 2024 ]\n\n\nBig Picture Overview\nWork through a sample case from reading in the data to producing a report.\n\n\nIn-class Example\nThanks you Karen Munoz for providing a de-identified data (Excel)\nTo get started, you will need the following files saved in the same folder\ndata in SPSS format: SPSS dataset\nempty/outline skeleton notebook: Supplement Skeleton\nstyle file: APA 7th edition\n\nSkeleton notebook after each class day\nday 3 end: Sept 18, 2024\nday 4 end: Sept 25, 2024\nday 5 end: Oct 2 2024\n\n\nDay 3 Recording\n\n\n\n\n\n\n\n\nDay 4 Recording\n\n\n\n\n\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream :::: {style=“max-width:608px”} ::: {style=“position:relative;padding-bottom:66.118421052632%”}  ======= ##### Day 5 Recording &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes&lt;/p&gt;\n&lt;div style=\"max-width:608px\"&gt;\n&lt;div style=\"position:relative;padding-bottom:66.118421052632%\"&gt;\n&lt;iframe id=\"kaltura_player\" src=\"https://cdnapisec.kaltura.com/p/1530551/embedPlaykitJs/uiconf_id/51947332?iframeembed=true&amp;entry_id=1_z2noyb7q&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_3vlnzldg%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A387%7D\" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow=\"autoplay *; fullscreen *; encrypted-media *\" sandbox=\"allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation\" title=\"Using R for Research: Intro, 2024 - day 5\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;border:0\"&gt;",
-    "crumbs": [
-      "TEACHING",
-      "Using R for Research"
-    ]
-  },
-  {
-    "objectID": "r4research.html#section-2",
-    "href": "r4research.html#section-2",
+    "objectID": "r4research.html#section-3",
+    "href": "r4research.html#section-3",
     "title": "Using R for Research: Intro",
     "section": "6",
     "text": "6\n[ October 9, 2024 ]\n\nData Wrangling",
@@ -276,22 +254,22 @@
     ]
   },
   {
-    "objectID": "r4research.html#section-3",
-    "href": "r4research.html#section-3",
+    "objectID": "r4research.html#section-4",
+    "href": "r4research.html#section-4",
     "title": "Using R for Research: Intro",
     "section": "7",
-    "text": "7\n[ October 23, 2024 ]\n\nPowerful Plotting\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream",
+    "text": "7\n[ October 23, 2024 ]\n\nPowerful Plotting",
     "crumbs": [
       "TEACHING",
       "Using R for Research"
     ]
   },
   {
-    "objectID": "r4research.html#section-5",
-    "href": "r4research.html#section-5",
+    "objectID": "r4research.html#section-6",
+    "href": "r4research.html#section-6",
     "title": "Using R for Research: Intro",
     "section": "8",
-    "text": "8\n[ October 30, 2024 ]\n\nTBA\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream ::::::: ======= ::::::::::::: &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes",
+    "text": "8\n[ October 30, 2024 ]\n\nTBA\n:::::::",
     "crumbs": [
       "TEACHING",
       "Using R for Research"

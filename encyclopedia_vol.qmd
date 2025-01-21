@@ -47,7 +47,7 @@ Title: "Resources for Learning R"
 
 -   ANOVA (independent or between subjects, 1-way, 2-way)
 
--   RM ANOVA (repeated meausres, between subjects)
+-   RM ANOVA (repeated measures, between subjects)
 
 -   Mixed ANOVA (both independent and between subjects)
 
@@ -57,11 +57,11 @@ Title: "Resources for Learning R"
 
 ## Regression
 
-[Vol. 4 Multiple Linear Regression & GLM](https://cehs-research.github.io/eBook_regression/)
+[Vol. 4 Multiple Linear Regression & GLM](https://sarbearschwartz.github.io/v4_regression/)
 
--   Calculating and visualizating correlation
+-   Calculating and visualization correlation
 
--   Multiple regression models (fitting, tabulating results, graphicaly probing interactions)
+-   Multiple regression models (fitting, tabulating results, graphical probing interactions)
 
 -   Generalizing the distribution (GLM: logistic regression, poisson regression, ect.)
 
@@ -81,7 +81,7 @@ Title: "Resources for Learning R"
 
 -   Tabulating results
 
--   Visualizings (marginal means to prob interactions)
+-   Visualizing (marginal means to prob interactions)
 
 -   Generalized Estimating Equations (GEE)
 :::
