@@ -1,5 +1,6 @@
 ---
 title: "About"
+toc: false
 image: images/USUAug820247058.jpg
 about: 
     template: jolla

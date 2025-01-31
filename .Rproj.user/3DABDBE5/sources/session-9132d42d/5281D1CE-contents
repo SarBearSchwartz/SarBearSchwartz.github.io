@@ -1,0 +1,87 @@
+---
+Title: "Resources for Learning R"
+---
+
+![](images/eBooks_logo_all_wide.PNG)
+
+# Volumn Links
+
+::: {.panel-tabset .nav-pills}
+## Software
+
+[Vol. 0 - Setting up your computer](https://sarbearschwartz.github.io/v0_install/)
+
+-   Installing software *(R, RStudio, packages, TeX)*
+
+-   Workspace orientation
+
+-   Notebook workflow
+
+-   Periodic updating
+
+## Wrangling
+
+[Vol. 1 - Data Management](https://cehs-research.github.io/eBook_wrangle/)
+
+-   Importing data files (SPSS, Excel, CSV, ect.)
+
+-   Sub-setting (observations and variables)
+
+-   Creating new variables
+
+-   Saving revised data
+
+## Explore
+
+[Vol. 2 Exploratroy Data Analysis](https://cehs-research.github.io/eBook_explore/)
+
+-   Computing and tabulating summary statistics (M/SD, count/%)
+
+-   Creating descriptive visualizations of distributions (boxplots, histograms) and relationships (scatter plots)
+
+## ANOVA
+
+[Vol. 3 Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)
+
+-   t-tests (independent groups, paired observations)
+
+-   ANOVA (independent or between subjects, 1-way, 2-way)
+
+-   RM ANOVA (repeated meausres, between subjects)
+
+-   Mixed ANOVA (both independent and between subjects)
+
+-   Visualizations (marginal means to prob interactions)
+
+-   Post hoc tests (multiple corrections, contrast statements)
+
+## Regression
+
+[Vol. 4 Multiple Linear Regression & GLM](https://cehs-research.github.io/eBook_regression/)
+
+-   Calculating and visualizating correlation
+
+-   Multiple regression models (fitting, tabulating results, graphicaly probing interactions)
+
+-   Generalizing the distribution (GLM: logistic regression, poisson regression, ect.)
+
+-   Moderation and Mediation
+
+-   Average Marginal Effects
+
+## Multilevel
+
+[Vol. 5 Multilevel and Marginal Models](https://cehs-research.github.io/eBook_multilevel/)
+
+-   Modeling clustered/hierarchical or longitudinal/repeated observations with multilevel models (MLM, LMM, GLMM, HLM), including:
+
+-   Computing ICCs
+
+-   Model fitting
+
+-   Tabulating results
+
+-   Visualizings (marginal means to prob interactions)
+
+-   Generalized Estimating Equations (GEE)
+:::

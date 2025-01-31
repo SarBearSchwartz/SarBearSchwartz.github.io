@@ -1,15 +1,19 @@
 ---
 Title: "Resources for Learning R"
+toc: false
+image: images/hexwall_books.png
+about: 
+    template: jolla
+    image-shape: rectangle
+    image-width: 35em
 ---
 
-![](images/eBooks_logo_all_wide.PNG)
-
-# Volumn Links
+# Encyclopedia of Quantitative Methods in R
 
 ::: {.panel-tabset .nav-pills}
 ## Software
 
-[Vol. 0 - Setting up your computer](https://cehs-research.github.io/eBook_install/)
+[Vol. 0 - Setting up your computer](https://sarbearschwartz.github.io/v0_install/)
 
 -   Installing software *(R, RStudio, packages, TeX)*
 

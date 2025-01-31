@@ -1,9 +1,10 @@
 ---
 title: "Multilevel and Marginal Models"
 subtitle: "PSY 7650"
+toc: false
 image: images/hex_7650.png
 about: 
-    template: solana
+    template: jolla
     image-shape: rectangle
     image-width: 15em
 ---

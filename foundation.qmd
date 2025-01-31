@@ -1,9 +1,10 @@
 ---
-title: "6600: Statistcal Foundations"
+title: "Statistcal Foundations"
 subtitle: "PSY 6600 / EDUC 6600"
+toc: false
 image: images/hex_6600.png
 about: 
-    template: solana
+    template: jolla
     image-shape: rectangle
     image-width: 15em
 ---
@@ -24,50 +25,16 @@ Students will also learn how to:
 
 ## **Syllabus**
 
--   [Summer 2021](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2021.pdf)
-
--   [Spring 2021](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2021.pdf)
-
--   [Summer 2020](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2020.pdf)
-
--   [Spring 2020](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2020.pdf)
+[Summer 2021](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2021.pdf) - [Spring 2021](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2021.pdf) - [Summer 2020](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Sum2020.pdf) - [Spring 2020](https://cehs-research.github.io/PSY-6600_public/syllabi/EDUCPSY%206600%20Syllabus%20Spr2020.pdf)
 
 ------------------------------------------------------------------------
 
 # Resources
 
-## Textbooks
-
 1.  **Explaining Psychological Statistics**, 4th edition, by *Barry Cohen*
-
--   USU library: [Free, with USU login](https://ebookcentral-proquest-com.dist.lib.usu.edu/lib/usu/detail.action?docID=1563061)
-
--   Amazon: [purchase, new or used](https://www.amazon.com/Explaining-Psychological-Statistics-Barry-Cohen/dp/1118436601/ref=sr_1_1?crid=3KP6RN97BRFG2&keywords=explaining+psychological+statistics&qid=1579810220&sprefix=explaining+psych%2Caps%2C217&sr=8-1)
-
 2.  **Publication Manual of the APA: The Official Guide to APA Style**, 7th edition (2020)
-
--   Amazon: [purchase new](https://www.amazon.com/Publication-Manual-American-Psychological-Association-dp-143383216X/dp/143383216X/ref=mt_other?_encoding=UTF8&me=&qid=1599166844)
-
-## Encyclopedia
-
--   Volume 0. [Setting up Your Computer](https://cehs-research.github.io/eBook_install)
-
--   Volume 1. [Wrangling Your Data](https://cehs-research.github.io/eBook_wrangle/)
-
--   Volume 2. [Exploring Your Data](https://cehs-research.github.io/eBook_explore/)
-
--   Volume 3. [Testing Mean Differences](https://cehs-research.github.io/eBook_ANOVA/)
-
--   Volume 4. [Correlation & Regression](https://cehs-research.github.io/eBook_regression/)
-
-## YouTube
-
--   Sarah Schwartz Stats [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)
-
-## Downloads
-
--   Ihno’s Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.xls), [data dictionary](https://cehs-research.github.io/PSY-6600_public/Data/Appendix%20C%20Ihno%20Data%20Key.pdf)
-
--   [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600%20formula%20sheet%20(filled%20in).pdf)
-
--   [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600%20statistical%20tables.pdf)
+3.  Encyclopedia: <http://www.sarahschwartzstats.com/encyclopedia_vol>
+4.  YouTube: Sarah Schwartz Stats [LINK](https://www.youtube.com/channel/UCbkTRp5FeSNIWeueyqBVPkA)
+5.  Ihno’s Dataset: [SPSS](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.sav) or [Excel](https://cehs-research.github.io/PSY-6600_public/Data/Ihno_dataset.xls), [data dictionary](https://cehs-research.github.io/PSY-6600_public/Data/Appendix%20C%20Ihno%20Data%20Key.pdf)
+6.  [Formula Sheet](https://cehs-research.github.io/PSY-6600_public/psy6600%20formula%20sheet%20(filled%20in).pdf)
+7.  [Look-up Tables](https://cehs-research.github.io/PSY-6600_public/psy6600%20statistical%20tables.pdf)

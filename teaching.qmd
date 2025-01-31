@@ -1,7 +1,11 @@
 ---
 title: "Teaching Experience"
+toc: false
+image: images/hexwall_teaching.png
 about: 
-    template: solana
+    template: jolla
+    image-shape: rectangle
+    image-width: 30em
 ---
 
 # Philosophy

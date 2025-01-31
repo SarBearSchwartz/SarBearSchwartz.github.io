@@ -1,9 +1,10 @@
 ---
-Title: "7610: Regression Analysis"
+Title: "Regression Analysis"
 subtitle: "PSY 7610 / EDUC 7610"
-image: images/hex_SSS.png
+toc: false
+image: images/hex_7610.png
 about: 
-    template: solana
+    template: jolla
     image-shape: rectangle
     image-width: 15em
 ---
