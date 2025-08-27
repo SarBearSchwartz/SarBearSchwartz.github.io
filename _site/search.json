@@ -236,62 +236,40 @@
     "href": "r4research.html",
     "title": "Using R for Research: Intro",
     "section": "",
-    "text": "Fall 2024 — Wednesdays 1:30 - 2:20pm — Dist Ed, 109",
+    "text": "Fall 2024 — Wednesdays 1:30 - 2:20pm — Dist Ed, 109\nBook Course Project Assignment: The link is for PSY 7650 MLM Course",
     "crumbs": [
       "TEACHING",
       "Using R for Research"
     ]
   },
   {
-    "objectID": "r4research.html#section-3",
-    "href": "r4research.html#section-3",
+    "objectID": "r4research.html#day-6",
+    "href": "r4research.html#day-6",
     "title": "Using R for Research: Intro",
-    "section": "6",
-    "text": "6\n[ October 9, 2024 ]\n\nData Wrangling",
+    "section": "Day 6",
+    "text": "Day 6\n[ October 9, 2024 ]\n\nData Wrangling",
     "crumbs": [
       "TEACHING",
       "Using R for Research"
     ]
   },
   {
-    "objectID": "r4research.html#section-4",
-    "href": "r4research.html#section-4",
+    "objectID": "r4research.html#day-7",
+    "href": "r4research.html#day-7",
     "title": "Using R for Research: Intro",
-    "section": "7",
-    "text": "7\n[ October 23, 2024 ]\n\nPowerful Plotting",
+    "section": "Day 7",
+    "text": "Day 7\n[ October 23, 2024 ]\n\nData Wrangling",
     "crumbs": [
       "TEACHING",
       "Using R for Research"
     ]
   },
   {
-    "objectID": "r4research.html#section-6",
-    "href": "r4research.html#section-6",
+    "objectID": "r4research.html#day-8",
+    "href": "r4research.html#day-8",
     "title": "Using R for Research: Intro",
-    "section": "8",
-    "text": "8\n[ October 30, 2024 ]\n\nTBA\n:::::::",
-    "crumbs": [
-      "TEACHING",
-      "Using R for Research"
-    ]
-  },
-  {
-    "objectID": "r4research.html#skeletons",
-    "href": "r4research.html#skeletons",
-    "title": "Using R for Research: Intro",
-    "section": "Skeletons",
-    "text": "Skeletons\nPublication Supplemental Material\nUSU Dissertation Appendix\nNeed to download: apa 7th style file",
-    "crumbs": [
-      "TEACHING",
-      "Using R for Research"
-    ]
-  },
-  {
-    "objectID": "r4research.html#examples",
-    "href": "r4research.html#examples",
-    "title": "Using R for Research: Intro",
-    "section": "Examples",
-    "text": "Examples\nAppendix: Weightloss.Rmd",
+    "section": "Day 8",
+    "text": "Day 8\n[ October 30, 2024 ]\n\nTBA\n:::::::\n\n\n\nPowerful Plotting\n\n\n\nFile\nLink\n\n\n\n\n(1) Data\nIhno’s Dataset (.sav)\n\n\n(2) Notebook\nUSU Dissertation Appendix (.Rmd)\n\n\n(3) Style\nAPA 7th edition (.csl)\n\n\n\n:::::::::::::::::",
     "crumbs": [
       "TEACHING",
       "Using R for Research"
@@ -355,7 +333,7 @@
   {
     "objectID": "foundation.html",
     "href": "foundation.html",
-    "title": "6600: Statistcal Foundations",
+    "title": "Statistcal Foundations",
     "section": "",
     "text": "“Statistical Foundations” is designed to provide graduate students with a practical, applied approach to the application of fundamental behavioral and educational research design and statistical principles. Students will learn how to differentiate and appropriately select the best statistical methods for use in various research designs and analytical problems.",
     "crumbs": [
@@ -366,53 +344,9 @@
   {
     "objectID": "foundation.html#syllabus",
     "href": "foundation.html#syllabus",
-    "title": "6600: Statistcal Foundations",
+    "title": "Statistcal Foundations",
     "section": "Syllabus",
-    "text": "Syllabus\n\nSummer 2021\nSpring 2021\nSummer 2020\nSpring 2020",
-    "crumbs": [
-      "TEACHING",
-      "Stat Foundations"
-    ]
-  },
-  {
-    "objectID": "foundation.html#textbooks",
-    "href": "foundation.html#textbooks",
-    "title": "6600: Statistcal Foundations",
-    "section": "Textbooks",
-    "text": "Textbooks\n\nExplaining Psychological Statistics, 4th edition, by Barry Cohen\n\n\nUSU library: Free, with USU login\nAmazon: purchase, new or used\n\n\nPublication Manual of the APA: The Official Guide to APA Style, 7th edition (2020)\n\n\nAmazon: purchase new",
-    "crumbs": [
-      "TEACHING",
-      "Stat Foundations"
-    ]
-  },
-  {
-    "objectID": "foundation.html#encyclopedia",
-    "href": "foundation.html#encyclopedia",
-    "title": "6600: Statistcal Foundations",
-    "section": "Encyclopedia",
-    "text": "Encyclopedia\n\nVolume 0. Setting up Your Computer\nVolume 1. Wrangling Your Data\nVolume 2. Exploring Your Data\nVolume 3. Testing Mean Differences\nVolume 4. Correlation & Regression",
-    "crumbs": [
-      "TEACHING",
-      "Stat Foundations"
-    ]
-  },
-  {
-    "objectID": "foundation.html#youtube",
-    "href": "foundation.html#youtube",
-    "title": "6600: Statistcal Foundations",
-    "section": "YouTube",
-    "text": "YouTube\n\nSarah Schwartz Stats LINK",
-    "crumbs": [
-      "TEACHING",
-      "Stat Foundations"
-    ]
-  },
-  {
-    "objectID": "foundation.html#downloads",
-    "href": "foundation.html#downloads",
-    "title": "6600: Statistcal Foundations",
-    "section": "Downloads",
-    "text": "Downloads\n\nIhno’s Dataset: SPSS or Excel, data dictionary\nFormula Sheet\nLook-up Tables",
+    "text": "Syllabus\nSummer 2021 - Spring 2021 - Summer 2020 - Spring 2020",
     "crumbs": [
       "TEACHING",
       "Stat Foundations"
@@ -736,9 +670,9 @@
   {
     "objectID": "encyclopedia_vol.html",
     "href": "encyclopedia_vol.html",
-    "title": "Volumn Links",
+    "title": "Encyclopedia of Quantitative Methods in R",
     "section": "",
-    "text": "Volumn Links\n\nSoftwareWranglingExploreANOVARegressionMultilevel\n\n\nVol. 0 - Setting up your computer\n\nInstalling software (R, RStudio, packages, TeX)\nWorkspace orientation\nNotebook workflow\nPeriodic updating\n\n\n\nVol. 1 - Data Management\n\nImporting data files (SPSS, Excel, CSV, ect.)\nSub-setting (observations and variables)\nCreating new variables\nSaving revised data\n\n\n\nVol. 2 Exploratroy Data Analysis\n\nComputing and tabulating summary statistics (M/SD, count/%)\nCreating descriptive visualizations of distributions (boxplots, histograms) and relationships (scatter plots)\n\n\n\nVol. 3 Testing Mean Differences\n\nt-tests (independent groups, paired observations)\nANOVA (independent or between subjects, 1-way, 2-way)\nRM ANOVA (repeated meausres, between subjects)\nMixed ANOVA (both independent and between subjects)\nVisualizations (marginal means to prob interactions)\nPost hoc tests (multiple corrections, contrast statements)\n\n\n\nVol. 4 Multiple Linear Regression & GLM\n\nCalculating and visualizating correlation\nMultiple regression models (fitting, tabulating results, graphicaly probing interactions)\nGeneralizing the distribution (GLM: logistic regression, poisson regression, ect.)\nModeration and Mediation\nAverage Marginal Effects\n\n\n\nVol. 5 Multilevel and Marginal Models\n\nModeling clustered/hierarchical or longitudinal/repeated observations with multilevel models (MLM, LMM, GLMM, HLM), including:\nComputing ICCs\nModel fitting\nTabulating results\nVisualizings (marginal means to prob interactions)\nGeneralized Estimating Equations (GEE)\n\n\n\n\n\n\n\n\n Back to top",
+    "text": "Encyclopedia of Quantitative Methods in R\n\nSoftwareWranglingExploreANOVARegressionMultilevel\n\n\nVol. 0 - Setting up your computer\n\nInstalling software (R, RStudio, packages, TeX)\nWorkspace orientation\nNotebook workflow\nPeriodic updating\n\n\n\nVol. 1 - Data Management\n\nImporting data files (SPSS, Excel, CSV, ect.)\nSub-setting (observations and variables)\nCreating new variables\nSaving revised data\n\n\n\nVol. 2 Exploratroy Data Analysis\n\nComputing and tabulating summary statistics (M/SD, count/%)\nCreating descriptive visualizations of distributions (boxplots, histograms) and relationships (scatter plots)\n\n\n\nVol. 3 Testing Mean Differences\n\nt-tests (independent groups, paired observations)\nANOVA (independent or between subjects, 1-way, 2-way)\nRM ANOVA (repeated measures, between subjects)\nMixed ANOVA (both independent and between subjects)\nVisualizations (marginal means to prob interactions)\nPost hoc tests (multiple corrections, contrast statements)\n\n\n\nVol. 4 Multiple Linear Regression & GLM\n\nCalculating and visualization correlation\nMultiple regression models (fitting, tabulating results, graphical probing interactions)\nGeneralizing the distribution (GLM: logistic regression, poisson regression, ect.)\nModeration and Mediation\nAverage Marginal Effects\n\n\n\nVol. 5 Multilevel and Marginal Models\n\nModeling clustered/hierarchical or longitudinal/repeated observations with multilevel models (MLM, LMM, GLMM, HLM), including:\nComputing ICCs\nModel fitting\nTabulating results\nVisualizing (marginal means to prob interactions)\nGeneralized Estimating Equations (GEE)\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "eBOOKS",
       "Encyclopedia"

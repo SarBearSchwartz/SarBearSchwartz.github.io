@@ -1,7 +1,0 @@
-"0","options(dplyr.summarise.inform = FALSE)"
-"0",""
-"0","flextable::set_flextable_defaults(theme_fun = ""theme_apa"","
-"0","                                  font.size = 10,"
-"0","                                  layout = ""autofit"")"
-"0",""
-"0","ggplot2::theme_set(theme_bw())"
